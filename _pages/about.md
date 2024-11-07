@@ -46,7 +46,7 @@ Du, Y., **Weng, Z.**, Lin, C., & Wu, D. [Dynamic pavement distress image stitchi
 
 Lin, Y., Dong, C., Wu, D., Jiang, S., Xiang, H., & **Weng, Z**. [Study of Pavement Macro-and Micro-Texture Evolution Law during Compaction Using 3D Laser Scanning Technology](https://doi.org/10.3390/app13095736)[J]. Applied Sciences, 2023, Vol.13(9), 5736. (SCI Q2, IF=2.7)
 
-Li, F., Ablat, G., Zhou, S., Liu, Y., Bi, Y., Weng, Z., & Du, Y. [2D-wavelet based micro and macro texture analysis for asphalt pavement under snow or ice condition](https://link.springer.com/article/10.1186/s43065-021-00029-y)[J]. Journal of Infrastructure Preservation and Resilience, 2021, Vol. 2(1):1-15. (EI)
+Li, F., Ablat, G., Zhou, S., Liu, Y., Bi, Y., **Weng, Z.**, & Du, Y. [2D-wavelet based micro and macro texture analysis for asphalt pavement under snow or ice condition](https://link.springer.com/article/10.1186/s43065-021-00029-y)[J]. Journal of Infrastructure Preservation and Resilience, 2021, Vol. 2(1):1-15. (EI)
 
 曹静, **翁梓航(通讯作者)**,蒋盛川.新一代农村公路智慧管理养护体系构建[J].公路, 2023, 68(06):424-428. (北大核心)
 
