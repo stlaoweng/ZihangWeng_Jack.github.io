@@ -26,6 +26,7 @@ wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
 
 2014.09-2018.07，同济大学，土木工程，学士
 
+
 发表论文
 ======
 **Weng, Z.**, Ablat, G., Wu, D., Liu, C., Li, F., Du, Y. & Cao, J. [Rapid pavement aggregate gradation estimation based on 3D data using a multi-feature fusion network](https://doi.org/10.1016/j.autcon.2021.104050)[J]. Automation in Construction, 2022, Vol.134:104050. (**中科院1区**, SCI Q1 (Engineering 1/138), **IF=10.517**)
@@ -52,8 +53,10 @@ Li, F., Ablat, G., Zhou, S., Liu, Y., Bi, Y., **Weng, Z.**, & Du, Y. [2D-wavelet
 
 蒋盛川,董晨阳,林雨超,**翁梓航(通讯作者)** ,向晖.沥青路面压实过程的数字化控制指标[J].公路,2024, 69(03):1-5. (北大核心)
 
+
 奖项与荣誉
 ======
+
 **中国交通运输协会科学技术奖一等奖**（排名11），2024；
 
 第十三届TRF交通运输研究（上海）论坛优秀博士论文，2024；
@@ -80,9 +83,11 @@ Li, F., Ablat, G., Zhou, S., Liu, Y., Bi, Y., **Weng, Z.**, & Du, Y. [2D-wavelet
 ======
 公路路面及附属设施智能巡查指南，上海市地方标准
 
+
 参编专著
 ======
 《道路设施性能高频多维感知与数字化管理技术》，人民交通出版社，2024
+
 
 发明专利
 ======
@@ -108,9 +113,13 @@ Li, F., Ablat, G., Zhou, S., Liu, Y., Bi, Y., **Weng, Z.**, & Du, Y. [2D-wavelet
 
 （已公开）一种基于三维纹理特征的沥青面层压实过程质量监测方法，CN116641289A
 
-实用新型专利：一种三维扫描数据采集设备以及具有该设备的压路机，CN220364837U（已授权）
+实用新型专利：
 
-计算机软件著作权：路面三维纹理参数自动计算软件，2023SR0356615（已授权）
+（已授权）一种三维扫描数据采集设备以及具有该设备的压路机，CN220364837U
+
+计算机软件著作权：
+
+（已授权）路面三维纹理参数自动计算软件，2023SR0356615
 
 
 学术兼职
