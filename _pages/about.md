@@ -42,7 +42,7 @@ Jiang, S., **Weng, Z. *(通讯作者)**, Wu, D., et al. [Pavement Compactness Es
 
 **翁梓航**，古丽妮尕尔·阿卜来提，杜豫川，吴荻非，刘成龙，曹静. 基于三维纹理特征的沥青路面级配预估方法[J]. 同济大学学报(自然科学版), 2022, Vol.50(06):879-890. (EI)
 
-Liu, C., Xu, N.,**Weng, Z.**, et al. [Rapid Pavement Skid Resistance Measurement using 3D Point Cloud Data and Deep Learning](https://doi.org/10.1111/mice.12931)[J]. Computer-Aided Civil and Infrastructure Engineering,  2023, 38(8): 1041-1058. (**中科院1区**, JCR Q1 (Civil Engineering 2/138), **IF=10.066**)
+Liu, C., Xu, N.,**Weng, Z.**, et al. [Rapid Pavement Skid Resistance Measurement using 3D Point Cloud Data and Deep Learning](https://doi.org/10.1111/mice.12931)[J]. Computer-Aided Civil and Infrastructure Engineering,  2023, 38(8): 1041-1058. (**中科院1区TOP**, JCR Q1 (Civil Engineering 2/138), **IF=10.066**)
 
 Du, Y., **Weng, Z.**, Li, F., et al. [A novel approach for pavement texture characterisation using 2D-wavelet decomposition](https://doi.org/10.1080/10298436.2020.1825712)[J]. International Journal of Pavement Engineering, 2022, Vol.23(6):1851-1866.(JCR Q1, IF=4.178, **2022交通部重大科技创新成果**)
 
