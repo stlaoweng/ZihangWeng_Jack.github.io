@@ -27,7 +27,7 @@ wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
 2014.09-2018.07，同济大学，土木工程，学士
 
 
-发表论文 (分区和影响因子均为发表年数据)
+发表论文
 ======
 
 **Weng, Z.**, Xiang, H., Lin, Y., et al. [Pavement texture depth estimation using image-based multiscale features](https://doi.org/10.1016/j.autcon.2022.104404)[J]. Automation in Construction, 2022, Vol.141:104404. (**中科院1区TOP**, JCR Q1 (Civil Engineering 1/138), **IF=10.517**)
@@ -56,6 +56,7 @@ Li, F., Ablat, G., Zhou, S., Liu, Y., Bi, Y., **Weng, Z.**, & Du, Y. [2D-wavelet
 
 蒋盛川,董晨阳,林雨超,**翁梓航(通讯作者)** ,向晖.沥青路面压实过程的数字化控制指标[J].公路,2024, 69(03):1-5. (北大核心)
 
+ (分区和影响因子均为发表年数据)
 
 奖项与荣誉
 ======
