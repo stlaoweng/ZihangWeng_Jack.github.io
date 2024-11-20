@@ -11,7 +11,7 @@ redirect_from:
 
 wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
 
-主要从事道路工程与信息工程交叉方向研究，研究方向为交通基础设施数字化、道路智慧管养、路面性能感知。发表SCI、EI、中文核心等期刊论文**16**篇，其中以第一作者（含学生一作）、通讯作者在AIC、CBM、CSCM、IJPE等期刊发表SCI论文**7**篇，EI论文1篇，中文核心2篇，包括3篇论文为**中科院一区TOP期刊**，1篇入选**交通部重大科技创新成果**，获得国际PCT专利1项，授权发明专利4项（公开9项），实用新型专利1项，软件著作权1项，参编地方标准1部，参编专著1部。获**中国交通运输协会科学技术奖一等奖**等多项国家级和省级荣誉。
+主要从事道路工程与信息工程交叉方向研究，研究方向为交通基础设施数字化、道路智慧管养、路面性能感知。发表SCI、EI、中文核心等期刊论文**17**篇，其中以第一作者、通讯作者在AIC、CACIE、CBM、CSCM等期刊发表SCI论文**5**篇，EI论文1篇，中文核心2篇，包括4篇论文为**中科院一区TOP期刊**，获得国际PCT专利1项，授权发明专利4项（公开9项），实用新型专利1项，软件著作权1项，参编地方标准1部，参编专著1部。获**中国交通运输协会科学技术奖一等奖**等多项国家级和省级荣誉，论文入选**交通部重大科技创新成果**。
 
 工作经历
 ======
@@ -27,25 +27,28 @@ wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
 2014.09-2018.07，同济大学，土木工程，学士
 
 
-发表论文
+发表论文 (分区和影响因子均为发表年数据)
 ======
-**Weng, Z.**, Ablat, G., Wu, D., Liu, C., Li, F., Du, Y. & Cao, J. [Rapid pavement aggregate gradation estimation based on 3D data using a multi-feature fusion network](https://doi.org/10.1016/j.autcon.2021.104050)[J]. Automation in Construction, 2022, Vol.134:104050. (**中科院1区**, SCI Q1 (Engineering 1/138), **IF=10.517**)
 
-**Weng, Z.**, Xiang, H., Lin, Y., Liu, C., Wu, D. & Du, Y. [Pavement texture depth estimation using image-based multiscale features](https://doi.org/10.1016/j.autcon.2022.104404)[J]. Automation in Construction, 2022, Vol.141:104404. (**中科院1区**, SCI Q1 (Engineering 1/138), **IF=10.517**)
+**Weng, Z.**, Xiang, H., Lin, Y., et al. [Pavement texture depth estimation using image-based multiscale features](https://doi.org/10.1016/j.autcon.2022.104404)[J]. Automation in Construction, 2022, Vol.141:104404. (**中科院1区TOP**, JCR Q1 (Civil Engineering 1/138), **IF=10.517**)
 
-Du, Y., Qin, B., **Weng, Z.*(通讯作者)**, Wu, D., & Liu, C. [Promoting the pavement skid resistance estimation by extracting tire-contacted texture based on 3D surface data](https://doi.org/10.1016/j.conbuildmat.2021.124729)[J]. Construction and Building Materials, 2021, Vol.307:124729. (**中科院1区**, SCI Q1 (Engineering 5/138), **IF=7.693**)
+**Weng, Z.**, Ablat, G., Wu, D., et al. [Rapid pavement aggregate gradation estimation based on 3D data using a multi-feature fusion network](https://doi.org/10.1016/j.autcon.2021.104050)[J]. Automation in Construction, 2022, Vol.134:104050. (**中科院1区TOP**, JCR Q1 (Civil Engineering 1/138), **IF=10.517**)
 
-Jiang, S., **Weng, Z. *(通讯作者)**, Wu, D., Du, Y., Liu, C., & Lin, Y. [Pavement Compactness Estimation Based on 3D Pavement Texture Features](https://doi.org/10.1016/j.cscm.2024.e03768)[J]. Case Studies in Construction Materials, 2024: e03768  (中科院2区, SCI Q1 (Engineering 12/181), **IF=6.5**)
+**Weng, Z.**, Liu, C., Du, Y., et al. Integrating spatial and channel attention mechanisms with domain knowledge in convolutional neural networks for friction coefficient prediction[J]. Computer-Aided Civil and Infrastructure Engineering (accepted) (**中科院1区TOP**, JCR Q1 (Civil Engineering 2/182), IF=**8.5**)
+
+Du, Y., Qin, B., **Weng, Z.*(通讯作者)**, et al. [Promoting the pavement skid resistance estimation by extracting tire-contacted texture based on 3D surface data](https://doi.org/10.1016/j.conbuildmat.2021.124729)[J]. Construction and Building Materials, 2021, Vol.307:124729. (**中科院1区TOP**, JCR Q1 (Civil Engineering 5/138), **IF=7.693**)
+
+Jiang, S., **Weng, Z. *(通讯作者)**, Wu, D., et al. [Pavement Compactness Estimation Based on 3D Pavement Texture Features](https://doi.org/10.1016/j.cscm.2024.e03768)[J]. Case Studies in Construction Materials, 2024: e03768  (中科院2区, JCR Q1 (Civil Engineering 12/181), **IF=6.5**)
 
 **翁梓航**，古丽妮尕尔·阿卜来提，杜豫川，吴荻非，刘成龙，曹静. 基于三维纹理特征的沥青路面级配预估方法[J]. 同济大学学报(自然科学版), 2022, Vol.50(06):879-890. (EI)
 
-Liu, C., Xu, N.,**Weng, Z.**, Li, Y., Du, Y. & Cao, J. [Rapid Pavement Skid Resistance Measurement using 3D Point Cloud Data and Deep Learning](https://doi.org/10.1111/mice.12931)[J]. Computer-Aided Civil and Infrastructure Engineering,  2023, 38(8): 1041-1058. (**中科院1区**, SCI Q1 (Engineering 2/138), **IF=10.066**)
+Liu, C., Xu, N.,**Weng, Z.**, et al. [Rapid Pavement Skid Resistance Measurement using 3D Point Cloud Data and Deep Learning](https://doi.org/10.1111/mice.12931)[J]. Computer-Aided Civil and Infrastructure Engineering,  2023, 38(8): 1041-1058. (**中科院1区**, JCR Q1 (Civil Engineering 2/138), **IF=10.066**)
 
-Du, Y., **Weng, Z.**, Li, F., Ablat, G., Wu, D. & Liu, C. [A novel approach for pavement texture characterisation using 2D-wavelet decomposition](https://doi.org/10.1080/10298436.2020.1825712)[J]. International Journal of Pavement Engineering, 2022, Vol.23(6):1851-1866.(SCI Q1, IF=4.178, 2022交通部重大科技创新成果)
+Du, Y., **Weng, Z.**, Li, F., et al. [A novel approach for pavement texture characterisation using 2D-wavelet decomposition](https://doi.org/10.1080/10298436.2020.1825712)[J]. International Journal of Pavement Engineering, 2022, Vol.23(6):1851-1866.(JCR Q1, IF=4.178, **2022交通部重大科技创新成果**)
 
-Du, Y., **Weng, Z.**, Lin, C., & Wu, D. [Dynamic pavement distress image stitching based on fine-grained feature matching](https://doi.org/10.1155/2020/5804835)[J]. Journal of Advanced Transportation, 2020, Vol.2020. (SCI Q3, IF=2.3)
+Du, Y., **Weng, Z.**, Lin, C., et al. [Dynamic pavement distress image stitching based on fine-grained feature matching](https://doi.org/10.1155/2020/5804835)[J]. Journal of Advanced Transportation, 2020, Vol.2020. (JCR Q3, IF=2.3)
 
-Lin, Y., Dong, C., Wu, D., Jiang, S., Xiang, H., & **Weng, Z**. [Study of Pavement Macro-and Micro-Texture Evolution Law during Compaction Using 3D Laser Scanning Technology](https://doi.org/10.3390/app13095736)[J]. Applied Sciences, 2023, Vol.13(9), 5736. (SCI Q2, IF=2.7)
+Lin, Y., Dong, C., Wu, D., Jiang, S., Xiang, H., & **Weng, Z**. [Study of Pavement Macro-and Micro-Texture Evolution Law during Compaction Using 3D Laser Scanning Technology](https://doi.org/10.3390/app13095736)[J]. Applied Sciences, 2023, Vol.13(9), 5736. (JCR Q2, IF=2.7)
 
 Li, F., Ablat, G., Zhou, S., Liu, Y., Bi, Y., **Weng, Z.**, & Du, Y. [2D-wavelet based micro and macro texture analysis for asphalt pavement under snow or ice condition](https://link.springer.com/article/10.1186/s43065-021-00029-y)[J]. Journal of Infrastructure Preservation and Resilience, 2021, Vol. 2(1):1-15. (EI)
 
