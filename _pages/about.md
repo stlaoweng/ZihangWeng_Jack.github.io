@@ -128,5 +128,7 @@ Li, F., Ablat, G., Zhou, S., Liu, Y., Bi, Y., **Weng, Z.**, & Du, Y. [2D-wavelet
 
 学术兼职
 ======
+国际华人基础设施专家联盟（IACIP）组织委员会成员
+
 担任IEEE Transactions on Intelligent Transportation Systems, Journal of Transportation Engineering, Part B: Pavements，International Journal of Pavement Research and Technology等期刊审稿人
 
