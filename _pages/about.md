@@ -34,7 +34,7 @@ wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
 
 **Weng, Z.**, Ablat, G., Wu, D., et al. [Rapid pavement aggregate gradation estimation based on 3D data using a multi-feature fusion network](https://doi.org/10.1016/j.autcon.2021.104050)[J]. Automation in Construction, 2022, Vol.134:104050. (**中科院1区TOP**, JCR Q1 (Civil Engineering 1/138), **IF=10.517**)
 
-**Weng, Z.**, Liu, C., Du, Y., et al. Integrating spatial and channel attention mechanisms with domain knowledge in convolutional neural networks for friction coefficient prediction[J]. Computer-Aided Civil and Infrastructure Engineering (accepted) (**中科院1区TOP**, JCR Q1 (Civil Engineering 2/182), IF=**8.5**)
+**Weng, Z.**, Liu, C., Du, Y., et al. [Integrating spatial and channel attention mechanisms with domain knowledge in convolutional neural networks for friction coefficient prediction](https://doi.org/10.1111/mice.13391)[J]. Computer-Aided Civil and Infrastructure Engineering, 2024 (**中科院1区TOP**, JCR Q1 (Civil Engineering 2/182), IF=**8.5**)
 
 Du, Y., Qin, B., **Weng, Z.*(通讯作者)**, et al. [Promoting the pavement skid resistance estimation by extracting tire-contacted texture based on 3D surface data](https://doi.org/10.1016/j.conbuildmat.2021.124729)[J]. Construction and Building Materials, 2021, Vol.307:124729. (**中科院1区TOP**, JCR Q1 (Civil Engineering 5/138), **IF=7.693**)
 
