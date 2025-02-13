@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-翁梓航，香港理工大学 土木及环境工程学系，冷真教授团队，博士后研究员
+翁梓航，香港理工大学 土木及环境工程学系，冷真教授团队，博士后 (PolyU Postdoc Matching Fund Scheme)
 
 wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
 
-主要从事道路工程与信息工程交叉方向研究，研究方向为交通基础设施数字化、道路智慧管养、路面性能感知。发表SCI、EI、中文核心等期刊论文**17**篇，其中以第一作者、通讯作者在AIC、CACIE、CBM、CSCM等期刊发表SCI论文**5**篇，EI论文1篇，中文核心2篇，包括4篇论文为**中科院一区TOP期刊**，获得国际PCT专利1项，授权发明专利4项（公开9项），实用新型专利1项，软件著作权1项，参编地方标准1部，参编专著1部。获**中国交通运输协会科学技术奖一等奖**等多项国家级和省级荣誉，论文入选**交通部重大科技创新成果**。
+主要从事道路工程与信息工程交叉方向研究，研究方向为交通基础设施数字化、道路智慧管养、路面性能感知。发表SCI、EI、中文核心等期刊论文**19**篇，其中以第一作者、通讯作者在AIC、CACIE、CBM、CSCM等期刊发表SCI论文**7**篇，EI论文1篇，中文核心2篇，包括5篇论文为**中科院一区TOP期刊**，获得国际PCT专利1项，授权发明专利4项（公开9项），实用新型专利1项，软件著作权1项，参编地方标准1部，参编专著1部。获**中国交通运输协会科学技术奖一等奖**等多项国家级和省级荣誉，论文入选**交通部重大科技创新成果**。
 
 工作经历
 ======
@@ -36,9 +36,13 @@ wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
 
 **Weng, Z.**, Liu, C., Du, Y., et al. [Integrating spatial and channel attention mechanisms with domain knowledge in convolutional neural networks for friction coefficient prediction](https://doi.org/10.1111/mice.13391)[J]. Computer-Aided Civil and Infrastructure Engineering, 2024 (**中科院1区TOP**, JCR Q1 (Civil Engineering 2/182), IF=**8.5**)
 
+**Weng, Z.**, Liu, C., Du, Y., et al. Research paradigms and scales of asphalt pavement skid resistance evaluation: A review[J]. Friction, 2025. (中科院1区, JCR Q1 (Engineering, Mechanical 9/183), IF=6.3)(minor revision)
+
 Du, Y., Qin, B., **Weng, Z.*(通讯作者)**, et al. [Promoting the pavement skid resistance estimation by extracting tire-contacted texture based on 3D surface data](https://doi.org/10.1016/j.conbuildmat.2021.124729)[J]. Construction and Building Materials, 2021, Vol.307:124729. (**中科院1区TOP**, JCR Q1 (Civil Engineering 5/138), **IF=7.693**)
 
 Jiang, S., **Weng, Z. *(通讯作者)**, Wu, D., et al. [Pavement Compactness Estimation Based on 3D Pavement Texture Features](https://doi.org/10.1016/j.cscm.2024.e03768)[J]. Case Studies in Construction Materials, 2024: e03768  (中科院2区, JCR Q1 (Civil Engineering 12/181), **IF=6.5**)
+
+Du, Y., Gao, Z., Liu, C.*, **Weng, Z. *(通讯作者)**, et al. Comprehensive Review on Greenhouse Gas Emission Assessment over the Full Life-Cycle of Pavement[J]. Case Studies in Construction Materials, 2025  (中科院2区, JCR Q1 (Civil Engineering 12/181), IF=6.5)(accepted)
 
 **翁梓航**，古丽妮尕尔·阿卜来提，杜豫川，吴荻非，刘成龙，曹静. 基于三维纹理特征的沥青路面级配预估方法[J]. 同济大学学报(自然科学版), 2022, Vol.50(06):879-890. (EI)
 
@@ -51,6 +55,8 @@ Du, Y., **Weng, Z.**, Lin, C., et al. [Dynamic pavement distress image stitching
 Lin, Y., Dong, C., Wu, D., Jiang, S., Xiang, H., & **Weng, Z**. [Study of Pavement Macro-and Micro-Texture Evolution Law during Compaction Using 3D Laser Scanning Technology](https://doi.org/10.3390/app13095736)[J]. Applied Sciences, 2023, Vol.13(9), 5736. (JCR Q2, IF=2.7)
 
 Li, F., Ablat, G., Zhou, S., Liu, Y., Bi, Y., **Weng, Z.**, & Du, Y. [2D-wavelet based micro and macro texture analysis for asphalt pavement under snow or ice condition](https://link.springer.com/article/10.1186/s43065-021-00029-y)[J]. Journal of Infrastructure Preservation and Resilience, 2021, Vol. 2(1):1-15. (EI)
+
+Zhong, S., Wu, D., Du, Y., Yu, Y., Liu, C., **Weng, Z.**, et al. [Enhanced GPR signal interpretation via deep learning fusion for unveiling road subsurface conditions](https://doi.org/10.1016/j.measurement.2025.117007)[J]. Measurement, 2025 (中科院2区TOP, JCR Q1 (Civil Engineering 17/181), IF=5.2) (published online)
 
 曹静, **翁梓航(通讯作者)**,蒋盛川.新一代农村公路智慧管理养护体系构建[J].公路, 2023, 68(06):424-428. (北大核心)
 
@@ -130,5 +136,5 @@ Li, F., Ablat, G., Zhou, S., Liu, Y., Bi, Y., **Weng, Z.**, & Du, Y. [2D-wavelet
 ======
 国际华人基础设施专家联盟（IACIP）组织委员会成员
 
-担任IEEE Transactions on Intelligent Transportation Systems, Journal of Transportation Engineering, Part B: Pavements，International Journal of Pavement Research and Technology等期刊审稿人
+担任IEEE Transactions on Intelligent Transportation Systems, Journal of Transportation Engineering, Part B: Pavements，Scientific Reports，International Journal of Pavement Research and Technology等期刊审稿人
 
