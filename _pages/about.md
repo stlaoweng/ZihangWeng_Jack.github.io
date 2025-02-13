@@ -40,7 +40,7 @@ wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
 
 Du, Y., Qin, B., **Weng, Z.*(通讯作者)**, et al. [Promoting the pavement skid resistance estimation by extracting tire-contacted texture based on 3D surface data](https://doi.org/10.1016/j.conbuildmat.2021.124729)[J]. Construction and Building Materials, 2021, Vol.307:124729. (**中科院1区TOP**, JCR Q1 (Civil Engineering 5/138), **IF=7.693**)
 
-Jiang, S., **Weng, Z.*(共同通讯作者)**, Wu, D.*, et al. [Pavement Compactness Estimation Based on 3D Pavement Texture Features](https://doi.org/10.1016/j.cscm.2024.e03768)[J]. Case Studies in Construction Materials, 2024: e03768  (中科院2区, JCR Q1 (Civil Engineering 12/181), **IF=6.5**)
+Jiang, S., **Weng, Z.*(共同通讯作者)**, Wu, D., et al. [Pavement Compactness Estimation Based on 3D Pavement Texture Features](https://doi.org/10.1016/j.cscm.2024.e03768)[J]. Case Studies in Construction Materials, 2024: e03768  (中科院2区, JCR Q1 (Civil Engineering 12/181), **IF=6.5**)
 
 Du, Y., Gao, Z., Liu, C.*, **Weng, Z. *(共同通讯作者)**, et al. Comprehensive Review on Greenhouse Gas Emission Assessment over the Full Life-Cycle of Pavement[J]. Case Studies in Construction Materials, 2025  (中科院2区, JCR Q1 (Civil Engineering 12/181), IF=6.5)(accepted)
 
