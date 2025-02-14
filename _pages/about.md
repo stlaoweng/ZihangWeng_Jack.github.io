@@ -27,7 +27,7 @@ wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
 2014.09-2018.07，同济大学，土木工程，学士
 
 
-发表论文
+代表性论文
 ======
 
 **Weng, Z.**, Xiang, H., Lin, Y., et al. [Pavement texture depth estimation using image-based multiscale features](https://doi.org/10.1016/j.autcon.2022.104404)[J]. Automation in Construction, 2022, Vol.141:104404. (**中科院1区TOP**, JCR Q1 (Civil Engineering 1/138), **IF=10.517**)
@@ -42,7 +42,9 @@ Du, Y., Qin, B., **Weng, Z.*(通讯作者)**, et al. [Promoting the pavement ski
 
 Jiang, S., **Weng, Z.*(共同通讯作者)**, Wu, D., et al. [Pavement Compactness Estimation Based on 3D Pavement Texture Features](https://doi.org/10.1016/j.cscm.2024.e03768)[J]. Case Studies in Construction Materials, 2024: e03768  (中科院2区, JCR Q1 (Civil Engineering 12/181), **IF=6.5**)
 
-Du, Y., Gao, Z., Liu, C.*, **Weng, Z. *(共同通讯作者)**, et al. Comprehensive Review on Greenhouse Gas Emission Assessment over the Full Life-Cycle of Pavement[J]. Case Studies in Construction Materials, 2025  (中科院2区, JCR Q1 (Civil Engineering 12/181), IF=6.5)(accepted)
+Du, Y., Gao, Z., Liu, C.*, **Weng, Z. *(共同通讯作者)**, et al. [Comprehensive Review on Greenhouse Gas Emission Assessment over the Full Life-Cycle of Pavement](https://doi.org/10.1016/j.cscm.2025.e04407)[J]. Case Studies in Construction Materials, 2025  (中科院2区, JCR Q1 (Civil Engineering 12/181), IF=6.5)(published online)
+
+**Weng, Z. *(通讯作者)**, Galleguillos, M., Adey, B., Saviz, M., Du, Y. Exploring Pavement Friction Variability Factors Using Ensemble Trees and Causal Inference[J]. Infrastructure Asset Management, 2025. (JCR Q3, IF=1.9) (minor revision)
 
 **翁梓航**，古丽妮尕尔·阿卜来提，杜豫川，吴荻非，刘成龙，曹静. 基于三维纹理特征的沥青路面级配预估方法[J]. 同济大学学报(自然科学版), 2022, Vol.50(06):879-890. (EI)
 
