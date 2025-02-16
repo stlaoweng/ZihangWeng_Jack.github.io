@@ -42,7 +42,7 @@ Du, Y., Qin, B., **Weng, Z.*(通讯作者)**, et al. [Promoting the pavement ski
 
 Jiang, S., **Weng, Z.*(共同通讯作者)**, Wu, D., et al. [Pavement Compactness Estimation Based on 3D Pavement Texture Features](https://doi.org/10.1016/j.cscm.2024.e03768)[J]. Case Studies in Construction Materials, 2024: e03768  (中科院2区, JCR Q1 (Civil Engineering 12/181), **IF=6.5**)
 
-Du, Y., Gao, Z., Liu, C.*, **Weng, Z. *(共同通讯作者)**, et al. [Comprehensive Review on Greenhouse Gas Emission Assessment over the Full Life-Cycle of Pavement](https://doi.org/10.1016/j.cscm.2025.e04407)[J]. Case Studies in Construction Materials, 2025  (中科院2区, JCR Q1 (Civil Engineering 12/181), IF=6.5)(published online)
+Du, Y., Gao, Z., Liu, C.*, **Weng, Z. *(共同通讯作者)**, et al. [Comprehensive Review on Greenhouse Gas Emission Assessment over the Full Life-Cycle of Pavement](https://doi.org/10.1016/j.cscm.2025.e04407)[J]. Case Studies in Construction Materials, 2025:e04407  (中科院2区, JCR Q1 (Civil Engineering 12/181), IF=6.5)
 
 **Weng, Z. *(通讯作者)**, Galleguillos, M., Adey, B., Saviz, M., Du, Y. Exploring Pavement Friction Variability Factors Using Ensemble Trees and Causal Inference[J]. Infrastructure Asset Management, 2025. (JCR Q3, IF=1.9) (minor revision)
 
