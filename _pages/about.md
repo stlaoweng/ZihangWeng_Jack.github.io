@@ -58,7 +58,7 @@ Lin, Y., Dong, C., Wu, D., Jiang, S., Xiang, H., & **Weng, Z**. [Study of Paveme
 
 Li, F., Ablat, G., Zhou, S., Liu, Y., Bi, Y., **Weng, Z.**, & Du, Y. [2D-wavelet based micro and macro texture analysis for asphalt pavement under snow or ice condition](https://link.springer.com/article/10.1186/s43065-021-00029-y)[J]. Journal of Infrastructure Preservation and Resilience, 2021, Vol. 2(1):1-15. (EI)
 
-Zhong, S., Wu, D., Du, Y., Yu, Y., Liu, C., **Weng, Z.**, et al. [Enhanced GPR signal interpretation via deep learning fusion for unveiling road subsurface conditions](https://doi.org/10.1016/j.measurement.2025.117007)[J]. Measurement, 2025 (中科院2区TOP, JCR Q1 (Civil Engineering 17/181), IF=5.2) (published online)
+Zhong, S., Wu, D., Du, Y., Yu, Y., Liu, C., **Weng, Z.**, et al. [Enhanced GPR signal interpretation via deep learning fusion for unveiling road subsurface conditions](https://doi.org/10.1016/j.measurement.2025.117007)[J]. Measurement, 2025, Vol.249:117007. (中科院2区TOP, JCR Q1 (Civil Engineering 17/181), IF=5.2)
 
 曹静, **翁梓航(通讯作者)**,蒋盛川.新一代农村公路智慧管理养护体系构建[J].公路, 2023, 68(06):424-428. (北大核心)
 
