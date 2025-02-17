@@ -11,7 +11,7 @@ redirect_from:
 
 wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
 
-主要从事道路工程与信息工程交叉方向研究，研究方向为交通基础设施数字化、道路智慧管养、路面性能感知。发表SCI、EI、中文核心等期刊论文**20**篇，其中以第一作者、通讯作者在AIC、CACIE、CBM、CSCM等期刊发表SCI论文**8**篇，EI论文**1**篇，中文核心2篇，包括**5**篇论文为**中科院一区TOP期刊**，获得国际PCT专利1项，授权发明专利**4**项（公开9项），实用新型专利1项，软件著作权1项，参编地方标准1部，参编专著1部。获**中国交通运输协会科学技术奖一等奖**等多项国家级和省级荣誉，论文入选**交通部重大科技创新成果**。
+主要从事道路工程与信息工程交叉方向研究，研究方向为交通基础设施数字化、道路智慧管养、路面性能感知。发表SCI、EI、中文核心等期刊论文**20**余篇，其中以第一作者、通讯作者在AIC、CACIE、CBM、CSCM等期刊发表SCI论文**8**篇，EI论文**1**篇，中文核心2篇，包括**5**篇论文为**中科院一区TOP期刊**，获得国际PCT专利1项，授权发明专利**4**项（公开9项），实用新型专利1项，软件著作权1项，参编地方标准1部，参编专著1部。获**中国交通运输协会科学技术奖一等奖**等多项国家级和省级荣誉，论文入选**交通部重大科技创新成果**。
 
 工作经历
 ======
@@ -36,7 +36,7 @@ wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
 
 **Weng, Z.**, Liu, C., Du, Y., et al. [Integrating spatial and channel attention mechanisms with domain knowledge in convolutional neural networks for friction coefficient prediction](https://doi.org/10.1111/mice.13391)[J]. Computer-Aided Civil and Infrastructure Engineering, 2024 (**中科院1区TOP**, JCR Q1 (Civil Engineering 2/182), IF=**8.5**)
 
-**Weng, Z.**, Liu, C., Du, Y., et al. Research paradigms and scales of asphalt pavement skid resistance evaluation: A review[J]. Friction, 2025. (**中科院1区**, JCR Q1 (Engineering, Mechanical 9/183), **IF=6.3**)(minor revision)
+**Weng, Z.**, Liu, C., Du, Y., et al. Research paradigms and scales of asphalt pavement skid resistance evaluation: A review[J]. Friction, 2025. (**中科院1区**, JCR Q1 (Engineering, Mechanical 9/183), **IF=6.3**)(accepted)
 
 Du, Y., Qin, B., **Weng, Z.*(通讯作者)**, et al. [Promoting the pavement skid resistance estimation by extracting tire-contacted texture based on 3D surface data](https://doi.org/10.1016/j.conbuildmat.2021.124729)[J]. Construction and Building Materials, 2021, Vol.307:124729. (**中科院1区TOP**, JCR Q1 (Civil Engineering 5/138), **IF=7.693**)
 
