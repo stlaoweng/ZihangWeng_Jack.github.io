@@ -11,7 +11,7 @@ redirect_from:
 
 wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
 
-主要从事道路工程与信息工程交叉方向研究，研究方向为交通基础设施数字化、道路智慧管养、路面性能感知。发表SCI、EI、中文核心等期刊论文**20**余篇，其中以第一作者、通讯作者在AIC、CACIE、CBM、CSCM等期刊发表SCI论文**8**篇，EI论文**1**篇，中文核心2篇，包括**5**篇论文为**中科院一区TOP期刊**，获得国际PCT专利1项，授权发明专利**4**项（公开9项），实用新型专利1项，软件著作权1项，参编地方标准1部，参编专著1部。获**中国交通运输协会科学技术奖一等奖**等多项国家级和省级荣誉，论文入选**交通部重大科技创新成果**。
+主要从事道路工程与信息工程交叉方向研究，研究方向为交通基础设施数字化、道路智慧管养、路面性能感知。发表SCI、EI、中文核心等期刊论文**20**余篇，其中以第一作者、通讯作者在AIC、CACIE、CBM、CSCM等期刊发表SCI论文**8**篇，EI论文**1**篇，中文核心2篇，包括**5**篇论文为**中科院一区TOP期刊**，获得国际PCT专利1项，授权发明专利**4**项（公开13项），实用新型专利1项，软件著作权1项，参编地方标准1部，参编专著1部。获**中国交通运输协会科学技术奖一等奖**等多项国家级和省级荣誉，论文入选**交通部重大科技创新成果**。
 
 工作经历
 ======
@@ -48,7 +48,7 @@ Du, Y., Gao, Z., Liu, C.*, **Weng, Z. *(共同通讯作者)**, et al. [Comprehen
 
 **翁梓航**，古丽妮尕尔·阿卜来提，杜豫川，吴荻非，刘成龙，曹静. [基于三维纹理特征的沥青路面级配预估方法](https://doi.org/10.11908/j.issn.0253-374x.21324)[J]. 同济大学学报(自然科学版), 2022, Vol.50(06):879-890. (EI)
 
-Liu, C., Xu, N.,**Weng, Z.**, et al. [Rapid Pavement Skid Resistance Measurement using 3D Point Cloud Data and Deep Learning](https://doi.org/10.1111/mice.12931)[J]. Computer-Aided Civil and Infrastructure Engineering,  2023, 38(8): 1041-1058. (**中科院1区TOP**, JCR Q1 (Civil Engineering 2/138), **IF=10.066**)
+Liu, C., Xu, N.,**Weng, Z.**, et al. [Effective pavement skid resistance measurement using multi‐scale textures and deep fusion network](https://doi.org/10.1111/mice.12931)[J]. Computer-Aided Civil and Infrastructure Engineering,  2023, 38(8): 1041-1058. (**中科院1区TOP**, JCR Q1 (Civil Engineering 2/138), **IF=10.066**)
 
 Du, Y., **Weng, Z.**, Li, F., et al. [A novel approach for pavement texture characterisation using 2D-wavelet decomposition](https://doi.org/10.1080/10298436.2020.1825712)[J]. International Journal of Pavement Engineering, 2022, Vol.23(6):1851-1866.(JCR Q1, IF=4.178, **2022交通部重大科技创新成果**)
 
@@ -114,16 +114,6 @@ Zhong, S., Wu, D., Du, Y., Yu, Y., Liu, C., **Weng, Z.**, et al. [Enhanced GPR s
 （已授权）一种基于三维纹理特征的沥青路面混合料级配预估方法，ZL202110211816.9
 
 （已授权）一种考虑碳排放的路网级全生命养护优化方法，ZL202210139768.1
-
-（已公开）一种基于高频智能巡检数据的路面性能动态预测方法，	CN115271204A
-
-（已公开）基于5G的两级架构道路全寿命基础设施管理系统及方法，CN115696632A
-
-（已公开）车载终端系统、数据展示方法、装置和计算机设备，CN115713855A
-
-（已公开）一种基于网格分布特征的路面三维纹理均匀性评价方法，CN116050917A
-
-（已公开）一种基于三维纹理特征的沥青面层压实过程质量监测方法，CN116641289A
 
 实用新型专利：
 
