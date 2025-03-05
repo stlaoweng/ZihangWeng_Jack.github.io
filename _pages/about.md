@@ -11,7 +11,7 @@ redirect_from:
 
 wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
 
-主要从事道路工程与信息工程交叉方向研究，研究方向为交通基础设施数字化、道路智慧管养、路面性能感知。发表SCI、EI、中文核心等期刊论文**二十**余篇，以**第一作者/通讯作者**在Automation in Construction, Computer-Aided Civil and Infrastructure Engineering, Friction,  Construction and Building Materials, Case Studies in Construction Materials等期刊发表SCI论文**8**篇（包含**5**篇**中科院一区TOP**，**7**篇**JCR 一区**），EI论文**1**篇，中文核心2篇。获得国际PCT专利1项，授权发明专利**4**项（公开13项），实用新型专利1项，软件著作权1项，参编地方标准1部，参编专著1部。获**中国交通运输协会科学技术奖一等奖**等多项国家级和省级荣誉，研究成果入选**国家交通部重大科技创新成果**（论文类）。
+主要从事道路工程与信息工程交叉方向研究，研究方向为交通基础设施数字化、道路智慧管养、路面性能感知。发表SCI、EI、中文核心等期刊论文**二十**余篇，以**第一作者/通讯作者**在Automation in Construction, Computer-Aided Civil and Infrastructure Engineering, Friction,  Construction and Building Materials, Case Studies in Construction Materials等期刊发表SCI论文**8**篇（包含**5篇中科院一区TOP**，**7篇JCR一区**），EI论文**1**篇，中文核心2篇。获得国际PCT专利1项，授权发明专利**4**项（公开13项），实用新型专利1项，软件著作权1项，参编地方标准1部，参编专著1部。获**中国交通运输协会科学技术奖一等奖**等多项国家级和省级荣誉，研究成果入选**国家交通部重大科技创新成果**（论文类）。
 
 工作经历
 ======
