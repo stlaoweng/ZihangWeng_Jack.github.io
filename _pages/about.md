@@ -44,7 +44,7 @@ Jiang, S., **Weng, Z.*(共同通讯作者)**, Wu, D., et al. [Pavement Compactne
 
 Du, Y., Gao, Z., Liu, C.*, **Weng, Z. *(共同通讯作者)**, et al. [Comprehensive Review on Greenhouse Gas Emission Assessment over the Full Life-Cycle of Pavement](https://doi.org/10.1016/j.cscm.2025.e04407)[J]. Case Studies in Construction Materials, 2025,Vol.22:e04407  (中科院2区, JCR Q1 (Civil Engineering 12/181), **IF=6.5**)
 
-**Weng, Z. *(通讯作者)**, Galleguillos, M., Adey, B., Saviz, M., Du, Y. Exploring Pavement Friction Variability Factors Using Ensemble Trees and Causal Inference[J]. Infrastructure Asset Management, 2025. (JCR Q3, IF=1.9) (accepted)
+**Weng, Z. *(通讯作者)**, Galleguillos, M., Adey, B., Saviz, M., Du, Y. [Exploring Pavement Friction Variability Factors Using Ensemble Trees and Causal Inference](https://doi.org/10.1680/jinam.24.00028)[J]. Infrastructure Asset Management, 2025. (JCR Q3, IF=1.9) 
 
 **翁梓航**，古丽妮尕尔·阿卜来提，杜豫川，吴荻非，刘成龙，曹静. [基于三维纹理特征的沥青路面级配预估方法](https://doi.org/10.11908/j.issn.0253-374x.21324)[J]. 同济大学学报(自然科学版), 2022, Vol.50(06):879-890. (EI)
 
