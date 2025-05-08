@@ -11,7 +11,7 @@ redirect_from:
 
 wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
 
-主要从事道路工程与信息工程交叉方向研究，研究方向为交通基础设施数字化、道路智慧管养、路面性能感知。发表SCI、EI、中文核心等期刊论文**二十**余篇，以**第一作者/通讯作者**在Automation in Construction, Computer-Aided Civil and Infrastructure Engineering, Friction,  Construction and Building Materials, Case Studies in Construction Materials等期刊发表SCI论文**8**篇（包含**5篇中科院一区TOP**，**7篇JCR一区**），EI论文**1**篇，中文核心2篇。获得国际PCT专利1项，授权发明专利**4**项（公开14项），实用新型专利1项，软件著作权1项，参编地方标准1部，参编专著1部。研究成果获**中国交通运输协会科学技术奖一等奖**等多项国家级和省级荣誉，第十三届TRF交通运输研究（上海）论坛优秀博士论文，同济大学优秀博士学位论文，入选**国家交通部重大科技创新成果**（论文类）。
+主要从事道路工程与信息工程交叉方向研究，研究方向为交通基础设施数字化、道路智慧管养、路面性能感知。发表SCI、EI、中文核心等期刊论文**27**余篇，以**第一作者/通讯作者**在Automation in Construction, Computer-Aided Civil and Infrastructure Engineering, Friction,  Construction and Building Materials, Case Studies in Construction Materials等期刊发表SCI论文**8**篇（包含**5篇中科院一区TOP**，**7篇JCR一区**），EI论文**1**篇，中文核心2篇。获得国际PCT专利1项，授权发明专利**4**项（公开14项），实用新型专利1项，软件著作权1项，参编地方标准1部，参编专著1部。研究成果获**中国交通运输协会科学技术奖一等奖**等多项国家级和省级荣誉，第十三届TRF交通运输研究（上海）论坛优秀博士论文，同济大学优秀博士学位论文，入选**国家交通部重大科技创新成果**（论文类）。
 
 工作经历
 ======
@@ -59,6 +59,8 @@ Lin, Y., Dong, C., Wu, D., Jiang, S., Xiang, H., & **Weng, Z**. [Study of Paveme
 Li, F., Ablat, G., Zhou, S., Liu, Y., Bi, Y., **Weng, Z.**, & Du, Y. [2D-wavelet based micro and macro texture analysis for asphalt pavement under snow or ice condition](https://link.springer.com/article/10.1186/s43065-021-00029-y)[J]. Journal of Infrastructure Preservation and Resilience, 2021, Vol. 2(1):14. (EI)
 
 Cai, W., Du, Y., Wu, D., **Weng, Z.**, and Liu, C. [Engineering-adaptive Pavement Maintenance Decision-making Model: a Reinforcement Learning Approach from Expert Feedback](https://doi.org/10.1109/TITS.2025.3547939)[J]. IEEE Transactions on Intelligent Transportation Systems, 2025. (**中科院1区TOP**, JCR Q1 (Civil Engineering 5/182), **IF=7.9**)
+
+Yang, B., Yuan, M., **Weng, Z.**, Li, D., and Leng, Z. [ Acoustic aging of low-noise pavements in Hong Kong: Regression modelling and mechanism investigation](https://doi.org/10.1016/j.trd.2025.104793)[J].Transportation Research Part D: Transport and Environment, 2025, Vol.144: 104793. (**中科院1区TOP**, JCR Q1 (Transportation 5/58), **IF=7.4**)
 
 Zhong, S., Wu, D., Du, Y., Yu, Y., Liu, C., **Weng, Z.**, et al. [Enhanced GPR signal interpretation via deep learning fusion for unveiling road subsurface conditions](https://doi.org/10.1016/j.measurement.2025.117007)[J]. Measurement, 2025, Vol.249:117007. (中科院2区TOP, JCR Q1 (Civil Engineering 17/181), IF=5.2)
 
