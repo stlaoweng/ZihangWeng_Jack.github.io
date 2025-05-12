@@ -54,15 +54,16 @@ Du, Y., **Weng, Z.**, Li, F., et al. [A novel approach for pavement texture char
 
 Du, Y., **Weng, Z.**, Lin, C., et al. [Dynamic pavement distress image stitching based on fine-grained feature matching](https://doi.org/10.1155/2020/5804835)[J]. Journal of Advanced Transportation, 2020, Vol.2020. (JCR Q3, IF=2.3)
 
-Lin, Y., Dong, C., Wu, D., Jiang, S., Xiang, H., & **Weng, Z**. [Study of Pavement Macro-and Micro-Texture Evolution Law during Compaction Using 3D Laser Scanning Technology](https://doi.org/10.3390/app13095736)[J]. Applied Sciences, 2023, Vol.13(9), 5736. (JCR Q2, IF=2.7)
-
-Li, F., Ablat, G., Zhou, S., Liu, Y., Bi, Y., **Weng, Z.**, & Du, Y. [2D-wavelet based micro and macro texture analysis for asphalt pavement under snow or ice condition](https://link.springer.com/article/10.1186/s43065-021-00029-y)[J]. Journal of Infrastructure Preservation and Resilience, 2021, Vol. 2(1):14. (EI)
+Li, Y., Li, L., Jiang, S., Liu, C., **Weng, Z.**, and Du, Y. [Unsupervised pavement rutting detection using structured light and area-based deep learning](https://doi.org/10.1016/j.autcon.2025.106235)[J]. Automation in Construction, 2025, Vol.176: 106235. (**中科院1区TOP**, JCR Q1 (Civil Engineering 1/138), **IF=9.6**) 
 
 Cai, W., Du, Y., Wu, D., **Weng, Z.**, and Liu, C. [Engineering-adaptive Pavement Maintenance Decision-making Model: a Reinforcement Learning Approach from Expert Feedback](https://doi.org/10.1109/TITS.2025.3547939)[J]. IEEE Transactions on Intelligent Transportation Systems, 2025. (**中科院1区TOP**, JCR Q1 (Civil Engineering 5/182), **IF=7.9**)
 
 Yang, B., Yuan, M., **Weng, Z.**, Li, D., and Leng, Z. [ Acoustic aging of low-noise pavements in Hong Kong: Regression modelling and mechanism investigation](https://doi.org/10.1016/j.trd.2025.104793)[J].Transportation Research Part D: Transport and Environment, 2025, Vol.144: 104793. (**中科院1区TOP**, JCR Q1 (Transportation 5/58), **IF=7.4**)
 
 Zhong, S., Wu, D., Du, Y., Yu, Y., Liu, C., **Weng, Z.**, et al. [Enhanced GPR signal interpretation via deep learning fusion for unveiling road subsurface conditions](https://doi.org/10.1016/j.measurement.2025.117007)[J]. Measurement, 2025, Vol.249:117007. (中科院2区TOP, JCR Q1 (Civil Engineering 17/181), IF=5.2)
+Lin, Y., Dong, C., Wu, D., Jiang, S., Xiang, H., & **Weng, Z**. [Study of Pavement Macro-and Micro-Texture Evolution Law during Compaction Using 3D Laser Scanning Technology](https://doi.org/10.3390/app13095736)[J]. Applied Sciences, 2023, Vol.13(9), 5736. (JCR Q2, IF=2.7)
+
+Li, F., Ablat, G., Zhou, S., Liu, Y., Bi, Y., **Weng, Z.**, & Du, Y. [2D-wavelet based micro and macro texture analysis for asphalt pavement under snow or ice condition](https://link.springer.com/article/10.1186/s43065-021-00029-y)[J]. Journal of Infrastructure Preservation and Resilience, 2021, Vol. 2(1):14. (EI)
 
 曹静, **翁梓航(通讯作者)**,蒋盛川.新一代农村公路智慧管理养护体系构建[J].公路, 2023, 68(06):424-428. (北大核心)
 
