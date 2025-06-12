@@ -38,7 +38,7 @@ wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
 
 **Weng, Z.**, Liu, C., Du, Y., et al. [Research paradigms and scales of asphalt pavement skid resistance evaluation: A review](https://doi.org/10.26599/FRICT.2025.9441082)[J]. Friction, 2025. (**中科院1区TOP**, JCR Q1 (Engineering, Mechanical 9/183), **IF=6.3**)(published online)
 
-**Weng, Z.**, Leng, Z*., Li, Y., et al. Tire Abrasion Induced Patterns of Pavement Reflectivity Characteristics from Lab to Field[J]. Construction and Building Materials, 2025. (**中科院1区TOP**, JCR Q1 (Civil Engineering 6/182), **IF=7.4**)(accepted)
+**Weng, Z.**, Leng, Z*., Li, Y., et al. [Tire Abrasion Induced Patterns of Pavement Reflectivity Characteristics from Lab to Field](https://doi.org/10.1016/j.conbuildmat.2025.142222)[J]. Construction and Building Materials, 2025, Vol 489:142222. (**中科院1区TOP**, JCR Q1 (Civil Engineering 6/182), **IF=7.4**)
 
 Du, Y., Qin, B., **Weng, Z.*(通讯作者)**, et al. [Promoting the pavement skid resistance estimation by extracting tire-contacted texture based on 3D surface data](https://doi.org/10.1016/j.conbuildmat.2021.124729)[J]. Construction and Building Materials, 2021, Vol.307:124729. (**中科院1区TOP**, JCR Q1 (Civil Engineering 5/138), **IF=7.693**)
 
