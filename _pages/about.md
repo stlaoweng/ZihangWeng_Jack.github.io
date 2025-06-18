@@ -11,7 +11,7 @@ redirect_from:
 
 wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
 
-主要从事道路工程与信息工程交叉方向研究，研究方向为交通基础设施数字化、道路智慧管养、路面性能感知。发表SCI、EI、中文核心等期刊论文**28**篇，以**第一作者/通讯作者**在Automation in Construction, Computer-Aided Civil and Infrastructure Engineering, Friction,  Construction and Building Materials, Case Studies in Construction Materials等期刊发表SCI论文**9**篇（包含**6篇中科院一区TOP**，**8篇JCR一区**），EI论文**1**篇，中文核心2篇。获得国际PCT专利1项，授权发明专利**4**项（公开14项），实用新型专利1项，软件著作权1项，参编地方标准1部，参编专著1部。研究成果获**中国交通运输协会科学技术奖一等奖**等多项国家级和省级荣誉，第十三届TRF交通运输研究（上海）论坛优秀博士论文，同济大学优秀博士学位论文，入选**国家交通部重大科技创新成果**（论文类）。
+主要从事道路工程与信息工程交叉方向研究，研究方向为交通基础设施数字化、道路智慧管养、路面性能感知。发表SCI、EI、中文核心等期刊论文**28**篇，以**第一作者/通讯作者**在Automation in Construction, Computer-Aided Civil and Infrastructure Engineering, Friction,  Construction and Building Materials, Case Studies in Construction Materials等高水平期刊发表SCI/EI论文**10**篇（包含**6篇中科院一区TOP**，**5篇发表年影响因子>8**，**8篇JCR一区**）。获得国际PCT专利1项，授权发明专利**4**项（公开14项），实用新型专利1项，软件著作权1项，参编地方标准1部，参编专著1部。研究成果获**中国交通运输协会科学技术奖一等奖**等多项国家级和省级荣誉，第十三届TRF交通运输研究（上海）论坛优秀博士论文，同济大学优秀博士学位论文，入选**国家交通部重大科技创新成果**（论文类）。
 
 工作经历
 ======
@@ -34,19 +34,19 @@ wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
 
 **Weng, Z.**, Ablat, G., Wu, D., et al. [Rapid pavement aggregate gradation estimation based on 3D data using a multi-feature fusion network](https://doi.org/10.1016/j.autcon.2021.104050)[J]. Automation in Construction, 2022, Vol.134:104050. (**中科院1区TOP**, JCR Q1 (Civil Engineering 1/138), **IF=10.517**)
 
-**Weng, Z.**, Liu, C., Du, Y., et al. [Integrating spatial and channel attention mechanisms with domain knowledge in convolutional neural networks for friction coefficient prediction](https://doi.org/10.1111/mice.13391)[J]. Computer-Aided Civil and Infrastructure Engineering, 2024 (**中科院1区TOP**, JCR Q1 (Civil Engineering 2/182), IF=**8.5**)
+**Weng, Z.**, Liu, C., Du, Y., et al. [Integrating spatial and channel attention mechanisms with domain knowledge in convolutional neural networks for friction coefficient prediction](https://doi.org/10.1111/mice.13391)[J]. Computer-Aided Civil and Infrastructure Engineering, 2024 (**中科院1区TOP**, JCR Q1 (Civil Engineering 2/183), IF=**9.1**)
 
-**Weng, Z.**, Liu, C., Du, Y., et al. [Research paradigms and scales of asphalt pavement skid resistance evaluation: A review](https://doi.org/10.26599/FRICT.2025.9441082)[J]. Friction, 2025. (**中科院1区TOP**, JCR Q1 (Engineering, Mechanical 9/183), **IF=6.3**)(published online)
+**Weng, Z.**, Liu, C., Du, Y., et al. [Research paradigms and scales of asphalt pavement skid resistance evaluation: A review](https://doi.org/10.26599/FRICT.2025.9441082)[J]. Friction, 2025. (**中科院1区TOP**, JCR Q1 (Engineering, Mechanical 7/182), **IF=8.2**)
 
-**Weng, Z.**, Leng, Z*., Li, Y., et al. [Tire Abrasion Induced Patterns of Pavement Reflectivity Characteristics from Lab to Field](https://doi.org/10.1016/j.conbuildmat.2025.142222)[J]. Construction and Building Materials, 2025, Vol 489:142222. (**中科院1区TOP**, JCR Q1 (Civil Engineering 6/182), **IF=7.4**)
+**Weng, Z.**, Leng, Z*., Li, Y., et al. [Tire Abrasion Induced Patterns of Pavement Reflectivity Characteristics from Lab to Field](https://doi.org/10.1016/j.conbuildmat.2025.142222)[J]. Construction and Building Materials, 2025, Vol 489:142222. (**中科院1区TOP**, JCR Q1 (Civil Engineering 8/183), **IF=8**)
 
 Du, Y., Qin, B., **Weng, Z.*(通讯作者)**, et al. [Promoting the pavement skid resistance estimation by extracting tire-contacted texture based on 3D surface data](https://doi.org/10.1016/j.conbuildmat.2021.124729)[J]. Construction and Building Materials, 2021, Vol.307:124729. (**中科院1区TOP**, JCR Q1 (Civil Engineering 5/138), **IF=7.693**)
 
 Jiang, S., **Weng, Z.*(共同通讯作者)**, Wu, D., et al. [Pavement Compactness Estimation Based on 3D Pavement Texture Features](https://doi.org/10.1016/j.cscm.2024.e03768)[J]. Case Studies in Construction Materials, 2024,Vol.21: e03768  (中科院2区, JCR Q1 (Civil Engineering 12/181), **IF=6.5**)
 
-Du, Y., Gao, Z., Liu, C.*, **Weng, Z. *(共同通讯作者)**, et al. [Comprehensive Review on Greenhouse Gas Emission Assessment over the Full Life-Cycle of Pavement](https://doi.org/10.1016/j.cscm.2025.e04407)[J]. Case Studies in Construction Materials, 2025,Vol.22:e04407  (中科院2区, JCR Q1 (Civil Engineering 12/181), **IF=6.5**)
+Du, Y., Gao, Z., Liu, C.*, **Weng, Z. *(共同通讯作者)**, et al. [Comprehensive Review on Greenhouse Gas Emission Assessment over the Full Life-Cycle of Pavement](https://doi.org/10.1016/j.cscm.2025.e04407)[J]. Case Studies in Construction Materials, 2025,Vol.22:e04407  (中科院2区, JCR Q1 (Civil Engineering 15/183), **IF=6.6**)
 
-**Weng, Z. *(通讯作者)**, Galleguillos, M., Adey, B., Saviz, M., Du, Y. [Exploring Pavement Friction Variability Factors Using Ensemble Trees and Causal Inference](https://doi.org/10.1680/jinam.24.00028)[J]. Infrastructure Asset Management, 2025. (JCR Q3, IF=1.9) 
+**Weng, Z. *(通讯作者)**, Galleguillos, M., Adey, B., Saviz, M., Du, Y. [Exploring Pavement Friction Variability Factors Using Ensemble Trees and Causal Inference](https://doi.org/10.1680/jinam.24.00028)[J]. Infrastructure Asset Management, 2025. (JCR Q3, IF=1.5) 
 
 **翁梓航**，古丽妮尕尔·阿卜来提，杜豫川，吴荻非，刘成龙，曹静. [基于三维纹理特征的沥青路面级配预估方法](https://doi.org/10.11908/j.issn.0253-374x.21324)[J]. 同济大学学报(自然科学版), 2022, Vol.50(06):879-890. (EI)
 
@@ -56,13 +56,13 @@ Du, Y., **Weng, Z.**, Li, F., et al. [A novel approach for pavement texture char
 
 Du, Y., **Weng, Z.**, Lin, C., et al. [Dynamic pavement distress image stitching based on fine-grained feature matching](https://doi.org/10.1155/2020/5804835)[J]. Journal of Advanced Transportation, 2020, Vol.2020. (JCR Q3, IF=2.3)
 
-Li, Y., Li, L., Jiang, S., Liu, C., **Weng, Z.**, and Du, Y. [Unsupervised pavement rutting detection using structured light and area-based deep learning](https://doi.org/10.1016/j.autcon.2025.106235)[J]. Automation in Construction, 2025, Vol.176: 106235. (**中科院1区TOP**, JCR Q1 (Civil Engineering 1/138), **IF=9.6**) 
+Li, Y., Li, L., Jiang, S., Liu, C., **Weng, Z.**, and Du, Y. [Unsupervised pavement rutting detection using structured light and area-based deep learning](https://doi.org/10.1016/j.autcon.2025.106235)[J]. Automation in Construction, 2025, Vol.176: 106235. (**中科院1区TOP**, JCR Q1 (Civil Engineering 1/183), **IF=11.5**) 
 
-Cai, W., Du, Y., Wu, D., **Weng, Z.**, and Liu, C. [Engineering-adaptive Pavement Maintenance Decision-making Model: a Reinforcement Learning Approach from Expert Feedback](https://doi.org/10.1109/TITS.2025.3547939)[J]. IEEE Transactions on Intelligent Transportation Systems, 2025. (**中科院1区TOP**, JCR Q1 (Civil Engineering 5/182), **IF=7.9**)
+Cai, W., Du, Y., Wu, D., **Weng, Z.**, and Liu, C. [Engineering-adaptive Pavement Maintenance Decision-making Model: a Reinforcement Learning Approach from Expert Feedback](https://doi.org/10.1109/TITS.2025.3547939)[J]. IEEE Transactions on Intelligent Transportation Systems, 2025. (**中科院1区TOP**, JCR Q1 (Civil Engineering 5/183), **IF=8.5**)
 
-Yang, B., Yuan, M., **Weng, Z.**, Li, D., and Leng, Z. [ Acoustic aging of low-noise pavements in Hong Kong: Regression modelling and mechanism investigation](https://doi.org/10.1016/j.trd.2025.104793)[J].Transportation Research Part D: Transport and Environment, 2025, Vol.144: 104793. (**中科院1区TOP**, JCR Q1 (Transportation 5/58), **IF=7.4**)
+Yang, B., Yuan, M., **Weng, Z.**, Li, D., and Leng, Z. [ Acoustic aging of low-noise pavements in Hong Kong: Regression modelling and mechanism investigation](https://doi.org/10.1016/j.trd.2025.104793)[J].Transportation Research Part D: Transport and Environment, 2025, Vol.144: 104793. (**中科院1区TOP**, JCR Q1 (Transportation 5/61), **IF=7.7**)
 
-Zhong, S., Wu, D., Du, Y., Yu, Y., Liu, C., **Weng, Z.**, et al. [Enhanced GPR signal interpretation via deep learning fusion for unveiling road subsurface conditions](https://doi.org/10.1016/j.measurement.2025.117007)[J]. Measurement, 2025, Vol.249:117007. (中科院2区TOP, JCR Q1 (Civil Engineering 17/181), IF=5.2)
+Zhong, S., Wu, D., Du, Y., Yu, Y., Liu, C., **Weng, Z.**, et al. [Enhanced GPR signal interpretation via deep learning fusion for unveiling road subsurface conditions](https://doi.org/10.1016/j.measurement.2025.117007)[J]. Measurement, 2025, Vol.249:117007. (中科院2区TOP, JCR Q1 (Instruments & Instrumentation 9/79), IF=5.6)
 
 Lin, Y., Dong, C., Wu, D., Jiang, S., Xiang, H., & **Weng, Z**. [Study of Pavement Macro-and Micro-Texture Evolution Law during Compaction Using 3D Laser Scanning Technology](https://doi.org/10.3390/app13095736)[J]. Applied Sciences, 2023, Vol.13(9), 5736. (JCR Q2, IF=2.7)
 
