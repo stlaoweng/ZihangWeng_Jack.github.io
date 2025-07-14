@@ -11,7 +11,7 @@ redirect_from:
 
 wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
 
-主要从事道路工程与信息工程交叉方向研究，研究方向为交通基础设施数字化、道路智慧管养、路面性能感知。发表SCI、EI、中文核心等期刊论文**28**篇，以**第一作者/通讯作者**在Automation in Construction, Computer-Aided Civil and Infrastructure Engineering, Friction,  Construction and Building Materials, Case Studies in Construction Materials等高水平期刊发表SCI/EI论文**10**篇（包含**6篇中科院一区TOP**，**5篇发表年影响因子>8**，**8篇JCR一区**）。获得国际PCT专利1项，授权发明专利**4**项（公开14项），实用新型专利1项，软件著作权1项，参编地方标准1部，参编专著1部。研究成果获**中国交通运输协会科学技术奖一等奖**等多项国家级和省级荣誉，第十三届TRF交通运输研究（上海）论坛优秀博士论文，同济大学优秀博士学位论文，入选**国家交通部重大科技创新成果**（论文类）。
+主要从事道路工程与信息工程交叉方向研究，研究方向为交通基础设施数字化、道路智慧管养、路面性能感知。发表SCI、EI、中文核心等期刊论文**三十余**篇，以**第一作者/通讯作者**在Automation in Construction, Computer-Aided Civil and Infrastructure Engineering, Friction,  Construction and Building Materials, Case Studies in Construction Materials等高水平期刊发表SCI/EI论文**10**篇（包含**6篇中科院一区TOP**，**5篇发表年影响因子>8**，**8篇JCR一区**）。获得国际PCT专利1项，授权发明专利**4**项（公开14项），实用新型专利1项，软件著作权1项，参编地方标准1部，参编专著1部。研究成果获**中国交通运输协会科学技术奖一等奖**等多项国家级和省级荣誉，第十三届TRF交通运输研究（上海）论坛优秀博士论文，同济大学优秀博士学位论文，入选**国家交通部重大科技创新成果**（论文类）。
 
 工作经历
 ======
@@ -57,6 +57,8 @@ Du, Y., **Weng, Z.**, Li, F., et al. [A novel approach for pavement texture char
 Du, Y., **Weng, Z.**, Lin, C., et al. [Dynamic pavement distress image stitching based on fine-grained feature matching](https://doi.org/10.1155/2020/5804835)[J]. Journal of Advanced Transportation, 2020, Vol.2020. (JCR Q3, IF=2.3)
 
 Li, Y., Li, L., Jiang, S., Liu, C., **Weng, Z.**, and Du, Y. [Unsupervised pavement rutting detection using structured light and area-based deep learning](https://doi.org/10.1016/j.autcon.2025.106235)[J]. Automation in Construction, 2025, Vol.176: 106235. (**中科院1区TOP**, JCR Q1 (Civil Engineering 1/183), **IF=11.5**) 
+
+Li, Y., Liu, C., **Weng, Z.**, et al. [Aggregate-level 3D analysis of asphalt pavement deterioration using laser scanning and vision transformer](https://doi.org/10.1016/j.autcon.2025.106380)[J]. Automation in Construction, 2025, Vol.178: 106380. (**中科院1区TOP**, JCR Q1 (Civil Engineering 1/183), IF=11.5) 
 
 Cai, W., Du, Y., Wu, D., **Weng, Z.**, and Liu, C. [Engineering-adaptive Pavement Maintenance Decision-making Model: a Reinforcement Learning Approach from Expert Feedback](https://doi.org/10.1109/TITS.2025.3547939)[J]. IEEE Transactions on Intelligent Transportation Systems, 2025. (**中科院1区TOP**, JCR Q1 (Civil Engineering 5/183), **IF=8.5**)
 
