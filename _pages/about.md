@@ -70,6 +70,8 @@ Lin, Y., Dong, C., Wu, D., Jiang, S., Xiang, H., & **Weng, Z**. [Study of Paveme
 
 Li, F., Ablat, G., Zhou, S., Liu, Y., Bi, Y., **Weng, Z.**, & Du, Y. [2D-wavelet based micro and macro texture analysis for asphalt pavement under snow or ice condition](https://link.springer.com/article/10.1186/s43065-021-00029-y)[J]. Journal of Infrastructure Preservation and Resilience, 2021, Vol. 2(1):14. (EI)
 
+**翁梓航**, 杜豫川, 刘成龙*, 吴荻非, 刘浩. 面向城市更新的道路基础设施更新评价体系[J].公路, 2025,(07):232-242 (北大核心)
+
 曹静, **翁梓航(通讯作者)**,蒋盛川.新一代农村公路智慧管理养护体系构建[J].公路, 2023, 68(06):424-428. (北大核心)
 
 蒋盛川,董晨阳,林雨超,**翁梓航(通讯作者)** ,向晖.沥青路面压实过程的数字化控制指标[J].公路,2024, 69(03):1-5. (北大核心)
