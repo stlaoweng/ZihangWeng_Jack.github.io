@@ -1,17 +1,17 @@
 ---
 permalink: /
-title: "翁梓航博士的个人主页"
+title: "翁梓航"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-翁梓航，香港理工大学 土木及环境工程学系，冷真教授团队，博士后 (PolyU Postdoc Matching Fund Scheme)
+香港理工大学 土木及环境工程学系，冷真教授团队，博士后 (PolyU Postdoc Matching Fund Scheme)
 
 wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
 
-主要从事道路工程与信息工程交叉方向研究，研究方向为交通基础设施数字化、道路智慧管养、路面性能感知。发表SCI、EI、中文核心等期刊论文**三十余**篇，以**第一作者/通讯作者**在Automation in Construction, Computer-Aided Civil and Infrastructure Engineering, Friction,  Construction and Building Materials, Case Studies in Construction Materials等高水平期刊发表SCI/EI/北大核心期刊论文**12**篇（包含**6篇中科院一区TOP**，**5篇发表年影响因子>8**，**8篇JCR一区**）。获得国际PCT专利1项，授权发明专利**4**项（公开14项），实用新型专利1项，软件著作权1项，参编地方标准1部，参编专著1部。研究成果获**中国交通运输协会科学技术奖一等奖**等多项国家级和省级荣誉，第十三届TRF交通运输研究（上海）论坛优秀博士论文，同济大学优秀博士学位论文，入选**国家交通部重大科技创新成果**（论文类）。
+主要从事交通基础设施数字化感知与智能化运维研究。主持**国家自然科学基金青年基金项目（C类）**，发表SCI、EI、中文核心等期刊论文**三十余**篇，其中以**第一作者/通讯作者**发表高水平SCI/EI/北大核心期刊论文**14**篇，**6篇中科院一区TOP**（IF均>8），**8篇JCR一区**），2篇土木学科**Top 1**期刊Autom. Constr.，1篇土木学科**Top 2**期刊 Comput. Aided Civ. Infrastruct. Eng.。获得国际PCT专利2项，授权发明专利**5**项（公开14项），实用新型专利1项，软件著作权1项，参编地方标准1部，参编专著1部。研究成果获**中国交通运输协会科学技术奖一等奖**等多项国家级和省级荣誉，第十三届TRF交通运输研究（上海）论坛优秀博士论文，同济大学优秀博士学位论文，入选**国家交通部重大科技创新成果**（论文类）。担任Symmetry的客座编辑和十多个国际学术期刊审稿人。
 
 工作经历
 ======
@@ -25,6 +25,24 @@ wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
 2022.10-2023.10，苏黎世联邦理工 ETH (QS No.7)，土木与环境学院，联合培养博士 （合作导师：Bryan T. Adey教授）
 
 2014.09-2018.07，同济大学，土木工程，学士
+
+
+科研项目
+======
+国家自然科学基金青年基金项目（C类），主持，2026
+
+香港理工大学博士后基金，主持，2025
+
+奖项与荣誉
+======
+
+**中国交通运输协会科学技术奖一等奖**（排名11），2024；
+
+第十三届TRF交通运输研究（上海）论坛优秀博士论文，2024；
+
+同济大学优秀博士毕业生，2024；
+
+同济大学优秀博士学位论文，2024；
 
 
 代表性论文
@@ -62,6 +80,8 @@ Li, Y., Liu, C., **Weng, Z.**, et al. [Aggregate-level 3D analysis of asphalt pa
 
 Cai, W., Du, Y., Wu, D., **Weng, Z.**, and Liu, C. [Engineering-adaptive Pavement Maintenance Decision-making Model: a Reinforcement Learning Approach from Expert Feedback](https://doi.org/10.1109/TITS.2025.3547939)[J]. IEEE Transactions on Intelligent Transportation Systems, 2025. (**中科院1区TOP**, JCR Q1 (Civil Engineering 5/183), **IF=8.5**)
 
+He, Y., **Weng, Z.**, Leng, Z., et al. [A review of asphalt pavement Long-Term Skid Resistance performance based on Multi-Scale Texture evolution characterization](https://www.sciopen.com/article/10.26599/FRICT.2025.9441157)[J]. Friction, 2025. (**中科院1区TOP**, JCR Q1 (Engineering, Mechanical 7/182), IF=**8.2**)
+
 Yang, B., Yuan, M., **Weng, Z.**, Li, D., and Leng, Z. [ Acoustic aging of low-noise pavements in Hong Kong: Regression modelling and mechanism investigation](https://doi.org/10.1016/j.trd.2025.104793)[J].Transportation Research Part D: Transport and Environment, 2025, Vol.144: 104793. (**中科院1区TOP**, JCR Q1 (Transportation 5/61), **IF=7.7**)
 
 Zhong, S., Wu, D., Du, Y., Yu, Y., Liu, C., **Weng, Z.**, et al. [Enhanced GPR signal interpretation via deep learning fusion for unveiling road subsurface conditions](https://doi.org/10.1016/j.measurement.2025.117007)[J]. Measurement, 2025, Vol.249:117007. (中科院2区TOP, JCR Q1 (Instruments & Instrumentation 9/79), IF=5.6)
@@ -76,34 +96,6 @@ Li, F., Ablat, G., Zhou, S., Liu, Y., Bi, Y., **Weng, Z.**, & Du, Y. [2D-wavelet
 
 蒋盛川,董晨阳,林雨超,**翁梓航(通讯作者)** ,向晖.沥青路面压实过程的数字化控制指标[J].公路,2024, 69(03):1-5. (北大核心)
 
- (分区和影响因子均为发表年数据)
-
-奖项与荣誉
-======
-
-**中国交通运输协会科学技术奖一等奖**（排名11），2024；
-
-第十三届TRF交通运输研究（上海）论坛优秀博士论文，2024；
-
-同济大学优秀博士毕业生，2024；
-
-同济大学优秀博士学位论文，2024；
-
-第二届“上港杯”长三角智能交通创新技术应用大赛，二等奖，2024；
-
-第六、七、八届中国研究生智慧城市技术与创意设计大赛，全国二等奖，2019, 2022,2023
-
-2021全球开放数据应用创新大赛SODIC，全国三等奖
-
-第十六届“挑战杯”上海市大学生课外学术科技竞赛，三等奖，2019；
-
-上海开放数据创新应用大赛，二等奖，2019, 2020, 2021；
-
-2021-2022学年同济大学优秀博士生奖学金;
-
-2018-2019学年同济大学优秀学生；
-
-第十届全国大学生电子商务“创新、创意及创业”挑战赛上海赛，特等奖，2020
 
 参编标准
 ======
@@ -119,6 +111,8 @@ Li, F., Ablat, G., Zhou, S., Liu, Y., Bi, Y., **Weng, Z.**, & Du, Y. [2D-wavelet
 ======
 国际PCT专利: 一种基于三维特征分布的路面纹理均匀性评价方法，WO/2024/152526
 
+国际专利PCT，一种路面损伤匹配与连续跟踪方法，WO2024/198068
+
 发明专利：
 
 （已授权）一种基于摩擦接触面预估的路面抗滑性能评价方法，ZL202110212825.X
@@ -128,6 +122,8 @@ Li, F., Ablat, G., Zhou, S., Liu, Y., Bi, Y., **Weng, Z.**, & Du, Y. [2D-wavelet
 （已授权）一种基于三维纹理特征的沥青路面混合料级配预估方法，ZL202110211816.9
 
 （已授权）一种考虑碳排放的路网级全生命养护优化方法，ZL202210139768.1
+
+（已授权）一种融合三维扫描和图像感知的压实监测设备和方法，CN202310783456.9
 
 实用新型专利：
 
@@ -142,5 +138,5 @@ Li, F., Ablat, G., Zhou, S., Liu, Y., Bi, Y., **Weng, Z.**, & Du, Y. [2D-wavelet
 ======
 国际华人基础设施专家联盟（IACIP）组织委员会成员
 
-担任IEEE Transactions on Intelligent Transportation Systems, Measurement, Journal of Transportation Engineering, Part B: Pavements，Scientific Reports，International Journal of Pavement Research and Technology, Discover Civil Engineering等期刊审稿人
+担任国际学术期刊Symmetry的客座编辑(Guest Editor)；担任中国公路学报，IEEE Transactions on Intelligent Transportation Systems, Measurement, Journal of Transportation Engineering, Part B: Pavements, Transportmetrica A: Transport Science, Journal of Road Engineering，Scientific Reports，International Journal of Pavement Research and Technology, Discover Civil Engineering, Symmetry等十余个国际学术期刊审稿人。
 
