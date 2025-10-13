@@ -56,7 +56,7 @@ wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
 
 **Weng, Z.**, Liu, C., Du, Y., et al. [Integrating spatial and channel attention mechanisms with domain knowledge in convolutional neural networks for friction coefficient prediction](https://doi.org/10.1111/mice.13391)[J]. Computer-Aided Civil and Infrastructure Engineering, 2025, 40(17): 2480-2497. (**中科院1区TOP**, JCR Q1 (Civil Engineering 2/183), IF=**9.1**)
 
-**Weng, Z.**, Du, Y., Liu, C., Leng, Z., et al. Vehicle skidding risk evaluation based on the lateral inhomogeneous distribution of pavement friction coefficients. Friction, 2025. (**中科院1区TOP**, JCR Q1 (Engineering, Mechanical 7/182), **IF=8.2**) 
+**Weng, Z.**, Du, Y., Liu, C., Leng, Z., et al. [Vehicle skidding risk evaluation based on the lateral inhomogeneous distribution of pavement friction coefficients](https://doi.org/10.26599/FRICT.2025.9441186)[J]. Friction, 2025. (**中科院1区TOP**, JCR Q1 (Engineering, Mechanical 7/182), **IF=8.2**) 
 
 **Weng, Z.**, Liu, C., Du, Y., et al. [Research paradigms and scales of asphalt pavement skid resistance evaluation: A review](https://doi.org/10.26599/FRICT.2025.9441082)[J]. Friction, 2025. (**中科院1区TOP**, JCR Q1 (Engineering, Mechanical 7/182), **IF=8.2**)
 
@@ -68,7 +68,9 @@ Jiang, S., **Weng, Z.*(共同通讯作者)**, Wu, D., et al. [Pavement Compactne
 
 Du, Y., Gao, Z., Liu, C.*, **Weng, Z. *(共同通讯作者)**, et al. [Comprehensive Review on Greenhouse Gas Emission Assessment over the Full Life-Cycle of Pavement](https://doi.org/10.1016/j.cscm.2025.e04407)[J]. Case Studies in Construction Materials, 2025,Vol.22:e04407  (中科院2区, JCR Q1 (Civil Engineering 15/183), **IF=6.6**)
 
-**Weng, Z. *(通讯作者)**, Galleguillos, M., Adey, B., Saviz, M., Du, Y. [Exploring Pavement Friction Variability Factors Using Ensemble Trees and Causal Inference](https://doi.org/10.1680/jinam.24.00028)[J]. Infrastructure Asset Management, 2025. (JCR Q3, IF=1.5) 
+**Weng, Z.**, Du, Y., Wu, D., et al. [A framework for asphalt pavement surface homogeneity evaluation based on 3d texture feature distribution](https://doi.org/10.1061/JPEODX.PVENG-1893)[J]. Journal of Transportation Engineering, Part B: Pavements, 2025, 151(4): 04025050. (JCR Q2, IF=2.5)
+
+**Weng, Z. *(通讯作者)**, Galleguillos, M., Adey, B., Saviz, M., Du, Y. [Exploring Pavement Friction Variability Factors Using Ensemble Trees and Causal Inference](https://doi.org/10.1680/jinam.24.00028)[J]. Infrastructure Asset Management, 2025, 12 (3): 159–172. (JCR Q3, IF=1.5) 
 
 **翁梓航**，古丽妮尕尔·阿卜来提，杜豫川，吴荻非，刘成龙，曹静. [基于三维纹理特征的沥青路面级配预估方法](https://doi.org/10.11908/j.issn.0253-374x.21324)[J]. 同济大学学报(自然科学版), 2022, Vol.50(06):879-890. (EI)
 
