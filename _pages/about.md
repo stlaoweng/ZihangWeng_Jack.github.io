@@ -11,7 +11,7 @@ redirect_from:
 
 wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
 
-主要从事交通基础设施数字化感知与智能化运维研究。主持**国家自然科学基金青年基金项目（C类）**，发表SCI、EI、中文核心等期刊论文**三十余**篇，其中以**第一作者/通讯作者**发表高水平SCI/EI/北大核心期刊论文**15**篇，**7篇中科院一区TOP**（IF均>8），**9篇JCR一区**，2篇土木学科**Top 1**期刊Autom. Constr.，1篇土木学科**Top 2**期刊 Comput. Aided Civ. Infrastruct. Eng.。获得国际PCT专利2项，授权发明专利**5**项（公开14项），实用新型专利1项，软件著作权1项，参编地方标准1部，参编专著1部。研究成果获**中国交通运输协会科技进步奖一等奖**，**中国智能交通协会科技进步奖二等奖**等多项国家级和省级荣誉，第十三届TRF交通运输研究（上海）论坛优秀博士论文，同济大学优秀博士学位论文，入选**国家交通部重大科技创新成果**（论文类）。担任Symmetry的客座编辑和十多个国际学术期刊审稿人。
+主要从事交通基础设施数字化感知与智能化运维研究。主持**国家自然科学基金青年基金项目（C类）**，发表SCI、EI、中文核心等期刊论文**三十余**篇，其中以**第一作者/通讯作者**发表高水平SCI/EI/北大核心期刊论文**16**篇，**7篇中科院一区TOP**（IF均>8），**9篇JCR一区**，2篇土木学科**Top 1**期刊Autom. Constr.，1篇土木学科**Top 2**期刊 Comput. Aided Civ. Infrastruct. Eng.。获得国际PCT专利2项，授权发明专利**5**项（公开14项），实用新型专利1项，软件著作权1项，参编地方标准1部，参编专著1部。研究成果获**中国交通运输协会科技进步奖一等奖**，**中国智能交通协会科技进步奖二等奖**等多项国家级和省级荣誉，第十三届TRF交通运输研究（上海）论坛优秀博士论文，同济大学优秀博士学位论文，入选**国家交通部重大科技创新成果**（论文类）。担任Symmetry的客座编辑和十多个国际学术期刊审稿人。
 
 工作经历
 ======
@@ -71,6 +71,8 @@ Du, Y., Gao, Z., Liu, C.*, **Weng, Z. *(共同通讯作者)**, et al. [Comprehen
 **Weng, Z.**, Du, Y., Wu, D., et al. [A framework for asphalt pavement surface homogeneity evaluation based on 3d texture feature distribution](https://doi.org/10.1061/JPEODX.PVENG-1893)[J]. Journal of Transportation Engineering, Part B: Pavements, 2025, 151(4): 04025050. (JCR Q2, IF=2.5)
 
 **Weng, Z. *(通讯作者)**, Galleguillos, M., Adey, B., Saviz, M., Du, Y. [Exploring Pavement Friction Variability Factors Using Ensemble Trees and Causal Inference](https://doi.org/10.1680/jinam.24.00028)[J]. Infrastructure Asset Management, 2025, 12 (3): 159–172. (JCR Q3, IF=1.5) 
+
+Cao J., **Weng, Z. *(通讯作者)**, He Y., et al. Enhancement of Asphalt Pavement Friction Modelling Incorporating High-Resolution Tire-Road Contact Characteristics[J]. Road Materials and Pavement Design, 2025. (JCR Q2, IF=3)
 
 **翁梓航**，古丽妮尕尔·阿卜来提，杜豫川，吴荻非，刘成龙，曹静. [基于三维纹理特征的沥青路面级配预估方法](https://doi.org/10.11908/j.issn.0253-374x.21324)[J]. 同济大学学报(自然科学版), 2022, Vol.50(06):879-890. (EI)
 
