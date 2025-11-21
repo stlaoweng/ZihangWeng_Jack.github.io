@@ -72,7 +72,7 @@ Du, Y., Gao, Z., Liu, C.*, **Weng, Z. *(共同通讯作者)**, et al. [Comprehen
 
 **Weng, Z. *(通讯作者)**, Galleguillos, M., Adey, B., Saviz, M., Du, Y. [Exploring Pavement Friction Variability Factors Using Ensemble Trees and Causal Inference](https://doi.org/10.1680/jinam.24.00028)[J]. Infrastructure Asset Management, 2025, 12 (3): 159–172. (JCR Q3, IF=1.5) 
 
-Cao J., **Weng, Z. *(通讯作者)**, He Y., et al. Enhancement of Asphalt Pavement Friction Modelling Incorporating High-Resolution Tire-Road Contact Characteristics[J]. Road Materials and Pavement Design, 2025. (JCR Q2, IF=3)
+Cao J., **Weng, Z. *(通讯作者)**, He Y., et al. [Enhancement of Asphalt Pavement Friction Modelling Incorporating High-Resolution Tire-Road Contact Characteristics](https://doi.org/10.1080/14680629.2025.2588714)[J]. Road Materials and Pavement Design, 2025. (JCR Q2, IF=3)
 
 **翁梓航**，古丽妮尕尔·阿卜来提，杜豫川，吴荻非，刘成龙，曹静. [基于三维纹理特征的沥青路面级配预估方法](https://doi.org/10.11908/j.issn.0253-374x.21324)[J]. 同济大学学报(自然科学版), 2022, Vol.50(06):879-890. (EI)
 
@@ -103,6 +103,8 @@ Li, F., Ablat, G., Zhou, S., Liu, Y., Bi, Y., **Weng, Z.**, & Du, Y. [2D-wavelet
 曹静, **翁梓航(通讯作者)**,蒋盛川.新一代农村公路智慧管理养护体系构建[J].公路, 2023, 68(06):424-428. (北大核心)
 
 蒋盛川,董晨阳,林雨超,**翁梓航(通讯作者)** ,向晖.沥青路面压实过程的数字化控制指标[J].公路,2024, 69(03):1-5. (北大核心)
+
+厉淡宁, **翁梓航**, 申谋等. 基于小样本机器学习的沥青黏弹主曲线快速预测方法[J]. 中国公路学报,2025. (EI，北大核心)
 
 
 参编标准
