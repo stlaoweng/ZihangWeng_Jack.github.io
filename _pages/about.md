@@ -148,5 +148,5 @@ Li, F., Ablat, G., Zhou, S., Liu, Y., Bi, Y., **Weng, Z.**, & Du, Y. [2D-wavelet
 ======
 国际华人基础设施专家联盟（IACIP）组织委员会成员
 
-担任国际学术期刊Symmetry的客座编辑(Guest Editor)；担任中国公路学报，IEEE Trans. Intell. Transp. Syst.; Constr. Build. Mater.; Measurement; J. Transp. Eng. Part B Pavements; Transportmetrica A; J. Road Eng.; Sci. Rep.; Int. J. Pavement Res. Technol.; Discov. Civ. Eng.; Symmetry, Buildings等十余个国际学术期刊审稿人。
+担任国际学术期刊Symmetry的客座编辑(Guest Editor)；担任中国公路学报，IEEE Trans. Intell. Transp. Syst.; Constr. Build. Mater.; Measurement; J. Transp. Eng. Part B Pavements; Transportmetrica A; J. Road Eng.; Sci. Rep.; Int. J. Pavement Res. Technol.; Big Data and Cog. Comput.; Discov. Civ. Eng.; Computers; Symmetry; Buildings; Modelling; Algorithms等十余个国际学术期刊审稿人。
 
