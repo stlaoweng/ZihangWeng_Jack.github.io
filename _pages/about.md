@@ -11,7 +11,7 @@ redirect_from:
 
 wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
 
-主要从事交通基础设施数字化感知与智能化运维研究。主持**国家自然科学基金青年基金项目（C类）**，发表SCI、EI、中文核心等期刊论文**三十余**篇，其中以**第一作者/通讯作者**发表高水平SCI/EI/北大核心期刊论文**16**篇，**7篇中科院一区TOP**（IF均>8），**9篇JCR一区**，2篇土木学科**Top 1**期刊Autom. Constr.，1篇土木学科**Top 2**期刊 Comput. Aided Civ. Infrastruct. Eng.。获得国际PCT专利2项，授权发明专利**5**项（公开14项），实用新型专利1项，软件著作权1项，参编地方标准1部，参编专著1部。研究成果获**中国交通运输协会科技进步奖一等奖**，**中国智能交通协会科技进步奖二等奖**等多项国家级和省级荣誉，第十三届TRF交通运输研究（上海）论坛优秀博士论文，同济大学优秀博士学位论文，入选**国家交通部重大科技创新成果**（论文类）。担任《长沙理工大学学报》青年编委，SCI期刊《Symmetry》客座编辑和Autom. Constr.，IEEE Trans. Intell. Transp. Syst.，Advan. Eng. Inform，中国公路学报等二十余个学术期刊审稿人。
+主要从事交通基础设施数字化感知与智能化运维研究。主持**国家自然科学基金青年基金项目（C类）**，发表SCI、EI、中文核心等期刊论文**三十余**篇，其中以**第一作者/通讯作者**发表高水平SCI/EI/北大核心期刊论文**17**篇，**8篇中科院一区TOP**（IF均>8），**10篇JCR一区**，2篇土木学科**Top 1**期刊Autom. Constr.，1篇土木学科**Top 2**期刊 Comput. Aided Civ. Infrastruct. Eng.。获得国际PCT专利2项，授权发明专利**5**项（公开14项），实用新型专利1项，软件著作权1项，参编地方标准1部，参编专著1部。研究成果获**中国交通运输协会科技进步奖一等奖**，**中国智能交通协会科技进步奖二等奖**等多项国家级和省级荣誉，第十三届TRF交通运输研究（上海）论坛优秀博士论文，同济大学优秀博士学位论文，入选**国家交通部重大科技创新成果**（论文类）。担任《长沙理工大学学报》青年编委，SCI期刊《Symmetry》的客座编辑和Autom. Constr.，IEEE Trans. Intell. Transp. Syst.，Advan. Eng. Inform，中国公路学报等二十余个学术期刊审稿人，期刊J. Road Eng. 2025年度优秀审稿专家。
 
 工作经历
 ======
@@ -61,6 +61,8 @@ wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
 **Weng, Z.**, Liu, C., Du, Y., et al. [Research paradigms and scales of asphalt pavement skid resistance evaluation: A review](https://doi.org/10.26599/FRICT.2025.9441082)[J]. Friction, 2025. (**中科院1区TOP**, JCR Q1 (Engineering, Mechanical 7/182), **IF=8.2**)
 
 **Weng, Z.**, Leng, Z*., Li, Y., et al. [Tire Abrasion Induced Patterns of Pavement Reflectivity Characteristics from Lab to Field](https://doi.org/10.1016/j.conbuildmat.2025.142222)[J]. Construction and Building Materials, 2025, Vol 489:142222. (**中科院1区TOP**, JCR Q1 (Civil Engineering 8/183), **IF=8**)
+
+**Weng, Z.**, Leng, Z.*, Du, Y., et al. Leveraging Tabular Prior-data Fitted Networks for Accurate Pavement Friction Coefficient Prediction from 3D Texture Features. Tribology International, 2025 (**中科院1区TOP**, JCR Q1 (Engineering, Mechanical 9/182), **IF=6.9**)
 
 Du, Y., Qin, B., **Weng, Z.*(通讯作者)**, et al. [Promoting the pavement skid resistance estimation by extracting tire-contacted texture based on 3D surface data](https://doi.org/10.1016/j.conbuildmat.2021.124729)[J]. Construction and Building Materials, 2021, Vol.307:124729. (**中科院1区TOP**, JCR Q1 (Civil Engineering 8/183), **IF=8**)
 
@@ -148,5 +150,5 @@ Li, F., Ablat, G., Zhou, S., Liu, Y., Bi, Y., **Weng, Z.**, & Du, Y. [2D-wavelet
 ======
 国际华人基础设施专家联盟（IACIP）组织委员会成员
 
-担任《长沙理工大学学报》青年编委，SCI期刊《Symmetry》客座编辑(Guest Editor)；担任Autom. Constr.; IEEE Trans. Intell. Transp. Syst.; Advan. Eng. Inform; 中国公路学报; Constr. Build. Mater.; Measurement; J. Transp. Eng. Part B Pavements等二十余个国际学术期刊审稿人。
+担任《长沙理工大学学报》青年编委，SCI期刊《Symmetry》客座编辑(Guest Editor)；担任Autom. Constr.; IEEE Trans. Intell. Transp. Syst.; Advan. Eng. Inform; 中国公路学报; Constr. Build. Mater.; Measurement; J. Transp. Eng. Part B Pavements等二十余个国际学术期刊审稿人，期刊J. Road Eng. 2025年度优秀审稿专家。
 
