@@ -62,7 +62,7 @@ wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
 
 **Weng, Z.**, Leng, Z*., Li, Y., et al. [Tire Abrasion Induced Patterns of Pavement Reflectivity Characteristics from Lab to Field](https://doi.org/10.1016/j.conbuildmat.2025.142222)[J]. Construction and Building Materials, 2025, Vol 489:142222. (**中科院1区TOP**, JCR Q1 (Civil Engineering 8/183), **IF=8**)
 
-**Weng, Z.**, Leng, Z.*, Du, Y., et al. Leveraging Tabular Prior-data Fitted Networks for Accurate Pavement Friction Coefficient Prediction from 3D Texture Features. Tribology International, 2025 (**中科院1区TOP**, JCR Q1 (Engineering, Mechanical 9/182), **IF=6.9**)
+**Weng, Z.**, Leng, Z.*, Du, Y., et al. [Leveraging Tabular Prior-data Fitted Networks for Accurate Pavement Friction Coefficient Prediction from 3D Texture Features. Tribology International](https://doi.org/10.1016/j.triboint.2026.111794)[J]. 2026, Vol 218: 111794. (**中科院1区TOP**, JCR Q1 (Engineering, Mechanical 9/182), **IF=6.9**)
 
 Du, Y., Qin, B., **Weng, Z.*(通讯作者)**, et al. [Promoting the pavement skid resistance estimation by extracting tire-contacted texture based on 3D surface data](https://doi.org/10.1016/j.conbuildmat.2021.124729)[J]. Construction and Building Materials, 2021, Vol.307:124729. (**中科院1区TOP**, JCR Q1 (Civil Engineering 8/183), **IF=8**)
 
