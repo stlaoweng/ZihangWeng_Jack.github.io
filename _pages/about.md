@@ -74,9 +74,9 @@ Wu, D., Leong, M., **Weng, Z.*(共同通讯作者)**, Liu, C., Li, Y., Du, Y., e
 
 **Weng, Z.**, Du, Y., Wu, D., et al. [A framework for asphalt pavement surface homogeneity evaluation based on 3d texture feature distribution](https://doi.org/10.1061/JPEODX.PVENG-1893)[J]. Journal of Transportation Engineering, Part B: Pavements, 2025, 151(4): 04025050. (JCR Q2, IF=2.5)
 
-**Weng, Z. *(通讯作者)**, Galleguillos, M., Adey, B., Saviz, M., Du, Y. [Exploring Pavement Friction Variability Factors Using Ensemble Trees and Causal Inference](https://doi.org/10.1680/jinam.24.00028)[J]. Infrastructure Asset Management, 2025, 12 (3): 159–172. (JCR Q3, IF=1.5) 
+**Weng, Z. *(共同通讯作者)**, Galleguillos, M., Adey, B., Saviz, M., Du, Y. [Exploring Pavement Friction Variability Factors Using Ensemble Trees and Causal Inference](https://doi.org/10.1680/jinam.24.00028)[J]. Infrastructure Asset Management, 2025, 12 (3): 159–172. (JCR Q3, IF=1.5) 
 
-Cao J., **Weng, Z. *(通讯作者)**, He Y., et al. [Enhancement of Asphalt Pavement Friction Modelling Incorporating High-Resolution Tire-Road Contact Characteristics](https://doi.org/10.1080/14680629.2025.2588714)[J]. Road Materials and Pavement Design, 2025. (JCR Q2, IF=3)
+Cao J., **Weng, Z. *(共同通讯作者)**, He Y., et al. [Enhancement of Asphalt Pavement Friction Modelling Incorporating High-Resolution Tire-Road Contact Characteristics](https://doi.org/10.1080/14680629.2025.2588714)[J]. Road Materials and Pavement Design, 2025. (JCR Q2, IF=3)
 
 **翁梓航**，古丽妮尕尔·阿卜来提，杜豫川，吴荻非，刘成龙，曹静. [基于三维纹理特征的沥青路面级配预估方法](https://doi.org/10.11908/j.issn.0253-374x.21324)[J]. 同济大学学报(自然科学版), 2022, Vol.50(06):879-890. (EI)
 
