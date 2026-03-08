@@ -11,7 +11,7 @@ redirect_from:
 
 wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
 
-主要从事交通基础设施数字化感知与智能化运维研究。主持**国家自然科学基金青年基金项目（C类）**，发表SCI、EI、中文核心等期刊论文**三十余**篇，其中以**第一作者/通讯作者**发表高水平SCI/EI/北大核心期刊论文**17**篇，**8篇中科院一区TOP**，**10篇JCR一区**，2篇土木学科**Top 1**期刊Autom. Constr.，1篇土木学科**Top 2**期刊 Comput. Aided Civ. Infrastruct. Eng.。获得国际PCT专利2项，授权发明专利**5**项（公开14项），实用新型专利1项，软件著作权1项，参编地方标准1部，参编专著1部。研究成果获**中国交通运输协会科技进步奖一等奖**，**中国智能交通协会科技进步奖二等奖**等多项国家级和省级荣誉，第十三届TRF交通运输研究（上海）论坛优秀博士论文，同济大学优秀博士学位论文，入选**国家交通部重大科技创新成果**（论文类）。担任《长沙理工大学学报》青年编委，SCI期刊《Symmetry》的客座编辑和Autom. Constr.，IEEE Trans. Intell. Transp. Syst.，Advan. Eng. Inform，中国公路学报等二十余个学术期刊审稿人，期刊J. Road Eng. 2025年度优秀审稿专家。
+主要从事交通基础设施数字化感知与智能化运维研究。主持**国家自然科学基金青年基金项目（C类）**，发表SCI、EI、中文核心等期刊论文**三十余**篇，其中以**第一作者/通讯作者**发表高水平SCI/EI/北大核心期刊论文**18**篇，**8篇中科院一区TOP**，**11篇JCR一区**，2篇土木学科**Top 1**期刊Autom. Constr.，1篇土木学科**Top 2**期刊 Comput. Aided Civ. Infrastruct. Eng.。获得国际PCT专利2项，授权发明专利**5**项（公开14项），实用新型专利1项，软件著作权1项，参编地方标准1部，参编专著1部。研究成果获**中国交通运输协会科技进步奖一等奖**，**中国智能交通协会科技进步奖二等奖**等多项国家级和省级荣誉，第十三届TRF交通运输研究（上海）论坛优秀博士论文，同济大学优秀博士学位论文，入选**国家交通部重大科技创新成果**（论文类）。担任《长沙理工大学学报》青年编委，SCI期刊《Symmetry》的客座编辑和Autom. Constr.，IEEE Trans. Intell. Transp. Syst.，Advan. Eng. Inform，中国公路学报等二十余个学术期刊审稿人，期刊J. Road Eng. 2025年度优秀审稿专家。
 
 工作经历
 ======
@@ -69,6 +69,8 @@ Du, Y., Qin, B., **Weng, Z.*(通讯作者)**, et al. [Promoting the pavement ski
 Jiang, S., **Weng, Z.*(共同通讯作者)**, Wu, D., et al. [Pavement Compactness Estimation Based on 3D Pavement Texture Features](https://doi.org/10.1016/j.cscm.2024.e03768)[J]. Case Studies in Construction Materials, 2024,Vol.21: e03768  (中科院2区, JCR Q1 (Civil Engineering 15/183), **IF=6.6**)
 
 Du, Y., Gao, Z., Liu, C.*, **Weng, Z. *(共同通讯作者)**, et al. [Comprehensive Review on Greenhouse Gas Emission Assessment over the Full Life-Cycle of Pavement](https://doi.org/10.1016/j.cscm.2025.e04407)[J]. Case Studies in Construction Materials, 2025,Vol.22:e04407  (中科院2区, JCR Q1 (Civil Engineering 15/183), **IF=6.6**)
+
+Wu, D., Leong, M., **Weng, Z.*(共同通讯作者)**, Liu, C., Li, Y., Du, Y., et al. Quantifying Segregation in Asphalt Pavement Under Multiple Construction Conditions Using Multi-Scale 3D Texture Features. International Journal of Transportation Science and Technology, 2026. (中科院2区, JCR Q1 (Transportation 13/62), IF=4.8)
 
 **Weng, Z.**, Du, Y., Wu, D., et al. [A framework for asphalt pavement surface homogeneity evaluation based on 3d texture feature distribution](https://doi.org/10.1061/JPEODX.PVENG-1893)[J]. Journal of Transportation Engineering, Part B: Pavements, 2025, 151(4): 04025050. (JCR Q2, IF=2.5)
 
