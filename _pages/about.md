@@ -159,12 +159,19 @@ Li, F., Ablat, G., Zhou, S., Liu, Y., Bi, Y., **Weng, Z.**, & Du, Y. [2D-wavelet
 荣获期刊《J. Transp. Eng. Part B Pavements》、《J. Road Eng.》**优秀审稿专家**。
 
 担任**多交叉学科**领域三十余个国际**期刊审稿人**：
+
 -AI+交通/土木：Autom. Constr.; IEEE Trans. Intell. Transp. Syst.; Advan. Eng. Inform
+
 -道路工程：中国公路学报;Int. J. Pave. Res. Technol.; Road Mater. Pavement Des.
+
 -计算机/AI：Neurocomputing; Big Data Cogn. Comput.; Computers; Algorithms; Modelling
+
 -环境/能源：Environ. Impact Assess. Rev.; Buildings
+
 -地理/遥感：GIScience & Remote Sens.
+
 -土木/机械：Constr. Build. Mater.; Case Stud. Constr. Mater.; Measurement; Materials; Infrastructures 
+
 -交通工程：Transportmetrica A: Transp. Sci.; J. Traffic Transp. Eng.
 
 
