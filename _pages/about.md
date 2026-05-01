@@ -139,6 +139,8 @@ Li, F., Ablat, G., Zhou, S., Liu, Y., Bi, Y., **Weng, Z.**, & Du, Y. [2D-wavelet
 
 （已授权）一种融合三维扫描和图像感知的压实监测设备和方法，ZL202310783456.9
 
+（已授权）一种基于高频智能巡检数据的路面性能动态预测方法，ZL202210892689.8
+
 实用新型专利：
 
 （已授权）一种三维扫描数据采集设备以及具有该设备的压路机，CN220364837U
@@ -170,7 +172,7 @@ Li, F., Ablat, G., Zhou, S., Liu, Y., Bi, Y., **Weng, Z.**, & Du, Y. [2D-wavelet
 
 -地理/遥感：GIScience & Remote Sens.
 
--土木/机械：Constr. Build. Mater.; Case Stud. Constr. Mater.; Measurement; Materials; Infrastructures 
+-土木/机械：Constr. Build. Mater.; Case Stud. Constr. Mater.; Measurement; Materials; Infrastructures; Tribo. Int.
 
 -交通工程：Transportmetrica A: Transp. Sci.; J. Traffic Transp. Eng.
 
