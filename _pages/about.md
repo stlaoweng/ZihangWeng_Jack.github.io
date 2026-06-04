@@ -59,7 +59,7 @@ wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
 
 **Weng, Z.**, Du, Y., Liu, C., Leng, Z., et al. [Vehicle skidding risk evaluation based on the lateral inhomogeneous distribution of pavement friction coefficients](https://doi.org/10.26599/FRICT.2025.9441186)[J]. Friction, 2025. (**中科院1区TOP**, JCR Q1 (Engineering, Mechanical 7/182), **IF=8.2**) 
 
-**Weng, Z.**, Liu, C., Du, Y., et al. [Research paradigms and scales of asphalt pavement skid resistance evaluation: A review](https://doi.org/10.26599/FRICT.2025.9441082)[J]. Friction, 2025. (**中科院1区TOP**, JCR Q1 (Engineering, Mechanical 7/182), **IF=8.2**)
+**Weng, Z.**, Liu, C., Du, Y., et al. [Research paradigms and scales of asphalt pavement skid resistance evaluation: A review](https://doi.org/10.26599/FRICT.2025.9441082)[J]. Friction, 2026, 14(2): 9441082. (**中科院1区TOP**, JCR Q1 (Engineering, Mechanical 7/182), **IF=8.2**)
 
 **Weng, Z.**, Leng, Z*., Li, Y., et al. [Tire Abrasion Induced Patterns of Pavement Reflectivity Characteristics from Lab to Field](https://doi.org/10.1016/j.conbuildmat.2025.142222)[J]. Construction and Building Materials, 2025, Vol 489:142222. (**中科院1区TOP**, JCR Q1 (Civil Engineering 8/183), **IF=8**)
 
