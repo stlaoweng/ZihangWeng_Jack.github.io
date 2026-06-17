@@ -91,13 +91,13 @@ Wu, D., Leong, M., **Weng, Z.*(共同通讯作者)**, Liu, C., Li, Y., Du, Y., e
 
 Cao J., **Weng, Z. *(共同通讯作者)**, He Y., et al. [Enhancement of Asphalt Pavement Friction Modelling Incorporating High-Resolution Tire-Road Contact Characteristics](https://doi.org/10.1080/14680629.2025.2588714)[J]. Road Materials and Pavement Design, 2025. (JCR Q2, IF=3.6)
 
-Chen P., Yang, H., Yang, H., Shi Q., and **Weng, Z.*(通讯作者)**. Predicting Pavement Three-Dimensional Texture from Reflectance Intensity Images Using a conditional Generative Adversarial Network [J]. Applied Sciences, 2026. (JCR Q2, IF=2.7) 
+Chen P., Yang, H., Yang, H., Shi Q., and **Weng, Z.*(通讯作者)**. Predicting Pavement Three-Dimensional Texture from Reflectance Intensity Images Using a conditional Generative Adversarial Network [J]. Applied Sciences, 2026. (JCR Q2, IF=2.9) 
 
 **翁梓航**，古丽妮尕尔·阿卜来提，杜豫川，吴荻非，刘成龙，曹静. [基于三维纹理特征的沥青路面级配预估方法](https://doi.org/10.11908/j.issn.0253-374x.21324)[J]. 同济大学学报(自然科学版), 2022, Vol.50(06):879-890. (EI)
 
-Liu, C., Xu, N.,**Weng, Z.**, et al. [Effective pavement skid resistance measurement using multi‐scale textures and deep fusion network](https://doi.org/10.1111/mice.12931)[J]. Computer-Aided Civil and Infrastructure Engineering,  2023, 38(8): 1041-1058. (**中科院1区TOP**, JCR Q1 (Civil Engineering 2/138), **IF=10.066**)
+Liu, C., Xu, N.,**Weng, Z.**, et al. [Effective pavement skid resistance measurement using multi‐scale textures and deep fusion network](https://doi.org/10.1111/mice.12931)[J]. Computer-Aided Civil and Infrastructure Engineering,  2023, 38(8): 1041-1058. (**中科院1区TOP**, JCR Q1, **IF=9.2**)
 
-Du, Y., **Weng, Z.**, Li, F., et al. [A novel approach for pavement texture characterisation using 2D-wavelet decomposition](https://doi.org/10.1080/10298436.2020.1825712)[J]. International Journal of Pavement Engineering, 2022, Vol.23(6):1851-1866.(JCR Q1, IF=4.178, **2022交通部重大科技创新成果**)
+Du, Y., **Weng, Z.**, Li, F., et al. [A novel approach for pavement texture characterisation using 2D-wavelet decomposition](https://doi.org/10.1080/10298436.2020.1825712)[J]. International Journal of Pavement Engineering, 2022, Vol.23(6):1851-1866.(JCR Q1, IF=3.7, **2022交通部重大科技创新成果**)
 
 Du, Y., **Weng, Z.**, Lin, C., et al. [Dynamic pavement distress image stitching based on fine-grained feature matching](https://doi.org/10.1155/2020/5804835)[J]. Journal of Advanced Transportation, 2020, Vol.2020. (JCR Q3, IF=2.3)
 
@@ -105,13 +105,13 @@ Li, Y., Li, L., Jiang, S., Liu, C., **Weng, Z.**, and Du, Y. [Unsupervised pavem
 
 Li, Y., Liu, C., **Weng, Z.**, et al. [Aggregate-level 3D analysis of asphalt pavement deterioration using laser scanning and vision transformer](https://doi.org/10.1016/j.autcon.2025.106380)[J]. Automation in Construction, 2025, Vol.178: 106380. (**中科院1区TOP**,  JCR Q1, **IF=12.6**；**ESI前1%高被引论文**) 
 
-Cai, W., Du, Y., Wu, D., **Weng, Z.**, and Liu, C. [Engineering-adaptive Pavement Maintenance Decision-making Model: a Reinforcement Learning Approach from Expert Feedback](https://doi.org/10.1109/TITS.2025.3547939)[J]. IEEE Transactions on Intelligent Transportation Systems, 2025. (**中科院1区TOP**, JCR Q1 (Civil Engineering 5/183), **IF=8.5**)
+Cai, W., Du, Y., Wu, D., **Weng, Z.**, and Liu, C. [Engineering-adaptive Pavement Maintenance Decision-making Model: a Reinforcement Learning Approach from Expert Feedback](https://doi.org/10.1109/TITS.2025.3547939)[J]. IEEE Transactions on Intelligent Transportation Systems, 2025. (**中科院1区TOP**, JCR Q1, **IF=8.5**)
 
-He, Y., **Weng, Z.**, Leng, Z., et al. [A review of asphalt pavement Long-Term Skid Resistance performance based on Multi-Scale Texture evolution characterization](https://www.sciopen.com/article/10.26599/FRICT.2025.9441157)[J]. Friction, 2025. (**中科院1区TOP**, JCR Q1 (Engineering, Mechanical 7/182), IF=**8.2**)
+He, Y., **Weng, Z.**, Leng, Z., et al. [A review of asphalt pavement Long-Term Skid Resistance performance based on Multi-Scale Texture evolution characterization](https://www.sciopen.com/article/10.26599/FRICT.2025.9441157)[J]. Friction, 2025. (**中科院1区TOP**, JCR Q1, IF=**8.2**)
 
-Yang, B., Yuan, M., **Weng, Z.**, Li, D., and Leng, Z. [ Acoustic aging of low-noise pavements in Hong Kong: Regression modelling and mechanism investigation](https://doi.org/10.1016/j.trd.2025.104793)[J].Transportation Research Part D: Transport and Environment, 2025, Vol.144: 104793. (**中科院1区TOP**, JCR Q1 (Transportation 5/61), **IF=7.7**)
+Yang, B., Yuan, M., **Weng, Z.**, Li, D., and Leng, Z. [ Acoustic aging of low-noise pavements in Hong Kong: Regression modelling and mechanism investigation](https://doi.org/10.1016/j.trd.2025.104793)[J].Transportation Research Part D: Transport and Environment, 2025, Vol.144: 104793. (**中科院1区TOP**, JCR Q1, **IF=7.7**)
 
-Zhong, S., Wu, D., Du, Y., Yu, Y., Liu, C., **Weng, Z.**, et al. [Enhanced GPR signal interpretation via deep learning fusion for unveiling road subsurface conditions](https://doi.org/10.1016/j.measurement.2025.117007)[J]. Measurement, 2025, Vol.249:117007. (中科院2区TOP, JCR Q1 (Instruments & Instrumentation 9/79), IF=5.6)
+Zhong, S., Wu, D., Du, Y., Yu, Y., Liu, C., **Weng, Z.**, et al. [Enhanced GPR signal interpretation via deep learning fusion for unveiling road subsurface conditions](https://doi.org/10.1016/j.measurement.2025.117007)[J]. Measurement, 2025, Vol.249:117007. (中科院2区TOP, JCR Q1, IF=5.6)
 
 Lin, Y., Dong, C., Wu, D., Jiang, S., Xiang, H., & **Weng, Z**. [Study of Pavement Macro-and Micro-Texture Evolution Law during Compaction Using 3D Laser Scanning Technology](https://doi.org/10.3390/app13095736)[J]. Applied Sciences, 2023, Vol.13(9), 5736. (JCR Q2, IF=2.7)
 
