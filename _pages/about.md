@@ -11,7 +11,7 @@ redirect_from:
 
 wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
 
-研究方向为交通-设施-环境互馈下的安全、能耗与韧性影响评估。主持**国家自然科学基金青年基金项目（C类）**，发表SCI、EI、中文核心等期刊论文**三十余**篇，其中以**第一作者/通讯作者**在Autom. Constr.、CACIE、Friction、Tribology International、CBM等高水平期刊发表**19篇**SCI/EI/北大核心论文，**8篇中科院一区TOP**，**11篇JCR一区**。获得国际PCT专利**2**项，授权发明专利**7**项（公开14项），实用新型专利1项，软件著作权1项，参编地方标准1部，参编专著1部。研究成果获**重庆市科技进步奖二等奖**，**中国交通运输协会科技进步奖一等奖**，**中国智能交通协会科技进步奖二等奖**等多项国家级和省级荣誉，第十三届TRF交通运输研究（上海）论坛优秀博士论文，同济大学优秀博士学位论文，入选**国家交通部重大科技创新成果**（论文类）、**ESI全球前1%高被引论文**。担任《Intelligent Transportation Infrastructure》、《长沙理工大学学报》**青年编委**，《Applied Science》、《Symmetry》的**客座编辑**，能源领域国际顶级会议Applied Energy Symposium 2026 **分会场主席**，期刊《J. Transp. Eng. Part B Pavements》、《J. Road Eng.》**优秀审稿专家**和Autom. Constr.，IEEE Trans. Intell. Transp. Syst.，Advan. Eng. Inform，中国公路学报等三十余个学术**期刊审稿人**。
+研究方向为交通-设施-环境互馈下的安全、能耗与韧性影响评估。主持**国家自然科学基金青年基金项目（C类）**，发表SCI、EI、中文核心等期刊论文**三十余**篇，其中以**第一作者/通讯作者**在Autom. Constr., Comput.-Aided Civ. Infrastruct. Eng., Friction, Tribol. Int.等高水平期刊发表**19篇**SCI/EI/北大核心论文，**8篇中科院一区TOP**，**11篇JCR一区**。获得国际PCT专利**2**项，授权发明专利**7**项（公开14项），实用新型专利1项，软件著作权1项，参编地方标准1部，参编专著1部。研究成果获**重庆市科技进步奖二等奖**，**中国交通运输协会科技进步奖一等奖**，**中国智能交通协会科技进步奖二等奖**等多项国家级和省级荣誉，第十三届TRF交通运输研究（上海）论坛优秀博士论文，同济大学优秀博士学位论文，入选**国家交通部重大科技创新成果**（论文类）、**ESI全球前1%高被引论文**、**中国知网前1%高被引论文**。担任《Intelligent Transportation Infrastructure》、《长沙理工大学学报》**青年编委**，《Applied Science》、《Symmetry》的**客座编辑**，能源领域国际顶级会议Applied Energy Symposium 2026 **分会场主席**，期刊《J. Transp. Eng. Part B Pavements》、《J. Road Eng.》**优秀审稿专家**和Autom. Constr.，IEEE Trans. Intell. Transp. Syst.，Advan. Eng. Inform，中国公路学报等三十余个学术**期刊审稿人**。
 
 工作经历
 ======
@@ -93,7 +93,7 @@ Cao J., **Weng, Z. *(共同通讯作者)**, He Y., et al. [Enhancement of Asphal
 
 Chen P., Yang, H., Yang, H., Shi Q., and **Weng, Z.*(通讯作者)**. Predicting Pavement Three-Dimensional Texture from Reflectance Intensity Images Using a conditional Generative Adversarial Network [J]. Applied Sciences, 2026. 16(11): 5244. (JCR Q2, IF=2.9) 
 
-**翁梓航**，古丽妮尕尔·阿卜来提，杜豫川，吴荻非，刘成龙，曹静. [基于三维纹理特征的沥青路面级配预估方法](https://doi.org/10.11908/j.issn.0253-374x.21324)[J]. 同济大学学报(自然科学版), 2022, Vol.50(06):879-890. (EI)
+**翁梓航**，古丽妮尕尔·阿卜来提，杜豫川，吴荻非，刘成龙，曹静. [基于三维纹理特征的沥青路面级配预估方法](https://doi.org/10.11908/j.issn.0253-374x.21324)[J]. 同济大学学报(自然科学版), 2022, Vol.50(06):879-890. (EI，北大核心)
 
 Liu, C., Xu, N.,**Weng, Z.**, et al. [Effective pavement skid resistance measurement using multi‐scale textures and deep fusion network](https://doi.org/10.1111/mice.12931)[J]. Computer-Aided Civil and Infrastructure Engineering,  2023, 38(8): 1041-1058. (**中科院1区TOP**, JCR Q1, **IF=9.2**)
 
@@ -119,7 +119,7 @@ Li, F., Ablat, G., Zhou, S., Liu, Y., Bi, Y., **Weng, Z.**, & Du, Y. [2D-wavelet
 
 **翁梓航**, 杜豫川, 刘成龙*, 吴荻非, 刘浩. [面向城市更新的道路基础设施更新评价体系](https://link.cnki.net/urlid/11.1668.U.20250708.1540.060)[J].公路, 2025,(07):232-242 (北大核心)
 
-曹静, **翁梓航(通讯作者)**,蒋盛川. [新一代农村公路智慧管理养护体系构建](https://link.cnki.net/urlid/11.1668.U.20230607.1557.120)[J].公路, 2023, 68(06):424-428. (北大核心)
+曹静, **翁梓航(通讯作者)**,蒋盛川. [新一代农村公路智慧管理养护体系构建](https://link.cnki.net/urlid/11.1668.U.20230607.1557.120)[J].公路, 2023, 68(06):424-428. (北大核心；**中国知网前1%高被引论文**)
 
 蒋盛川,董晨阳,林雨超,**翁梓航(通讯作者)** ,向晖. [沥青路面压实过程的数字化控制指标](https://link.cnki.net/urlid/11.1668.U.20240307.0931.002)[J].公路,2024, 69(03):1-5. (北大核心)
 
