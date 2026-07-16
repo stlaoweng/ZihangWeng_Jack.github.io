@@ -11,7 +11,7 @@ redirect_from:
 
 wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
 
-研究方向为交通-设施-环境互馈下的安全、能耗与韧性影响评估。主持**国家自然科学基金青年基金项目（C类）**，发表学术论文**三十余**篇，其中以**第一作者/通讯作者**在Autom. Constr., Comput.-Aided Civ. Infrastruct. Eng., Friction, Tribol. Int.等高水平期刊发表**二十余篇**SCI/EI/北大核心论文，**8篇中科院一区TOP**，**11篇JCR一区**。获得国际PCT专利**2**项，授权发明专利**7**项（公开14项），实用新型专利1项，软件著作权1项，参编地方标准1部，参编专著1部。研究成果获**重庆市科技进步奖二等奖**，**中国交通运输协会科技进步奖一等奖**，**中国智能交通协会科技进步奖二等奖**等多项国家级和省级荣誉，第十三届TRF交通运输研究（上海）论坛优秀博士论文，同济大学优秀博士学位论文，入选**国家交通部重大科技创新成果**（论文类）、**ESI全球前1%高被引论文**、**中国知网前1%高被引论文**。担任《Intelligent Transportation Infrastructure》、《长沙理工大学学报》**青年编委**，《Applied Science》、《Symmetry》的**客座编辑**，能源领域国际顶级会议Applied Energy Symposium 2026 **分会场主席**，期刊《J. Transp. Eng. Part B Pavements》、《J. Road Eng.》**优秀审稿专家**和Autom. Constr.，IEEE Trans. Intell. Transp. Syst.，Advan. Eng. Inform，中国公路学报等三十余个学术**期刊审稿人**。
+研究方向为交通-设施-环境互馈下的安全、能耗与韧性影响评估。主持**国家自然科学基金青年基金项目（C类）**，发表学术论文**三十余**篇，其中以**第一作者/通讯作者**在Autom. Constr., Comput.-Aided Civ. Infrastruct. Eng., Friction, Tribol. Int.等高水平期刊上发表SCI/EI/北大核心论文**二十余篇**，**8篇中科院一区TOP**，**11篇JCR一区**。获得国际PCT专利**2**项，授权发明专利**7**项（公开14项），实用新型专利1项，软件著作权1项，参编地方标准1部，参编专著1部。研究成果获**重庆市科技进步奖二等奖**，**中国交通运输协会科技进步奖一等奖**，**中国智能交通协会科技进步奖二等奖**等多项国家级和省级荣誉，第十三届TRF交通运输研究（上海）论坛优秀博士论文，同济大学优秀博士学位论文，入选**国家交通部重大科技创新成果**（论文类）、**ESI全球前1%高被引论文**、**中国知网前1%高被引论文**。担任《Intelligent Transportation Infrastructure》、《长沙理工大学学报》**青年编委**，《Applied Science》、《Symmetry》的**客座编辑**，能源领域国际顶级会议Applied Energy Symposium 2026 **分会场主席**，期刊《J. Transp. Eng. Part B Pavements》、《J. Road Eng.》**优秀审稿专家**和Autom. Constr.，IEEE Trans. Intell. Transp. Syst.，Advan. Eng. Inform，中国公路学报等三十余个学术**期刊审稿人**。
 
 工作经历
 ======
