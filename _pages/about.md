@@ -18,9 +18,7 @@ My research focuses on the assessment of safety, energy consumption, and resilie
 
 工作经历 | Work Experience
 ======
-2024.08-，香港理工大学，土木及环境工程学系，博士后研究员（合作导师：冷真教授）
-
-2024.08-, Postdoctoral Fellow, Department of Civil and Environmental Engineering, The Hong Kong Polytechnic University (Supervisor: Professor Zhen Leng)
+2024.08-，香港理工大学，土木及环境工程学系，博士后研究员（合作导师：冷真教授）Postdoctoral Fellow, Department of Civil and Environmental Engineering, The Hong Kong Polytechnic University (Supervisor: Professor Zhen Leng)
 
 教育经历 | Education
 ======
