@@ -171,7 +171,7 @@ High‑Frequency Multi‑Dimensional Sensing and Digital Management Technologies
 
 发明专利 | Patents
 ======
-**国际PCT专利 | PCT Patents**
+**国际PCT专利 PCT Patents**
 
 一种基于三维特征分布的路面纹理均匀性评价方法，WO/2024/152526
 
@@ -181,7 +181,7 @@ WO/2024/152526: A Method for Evaluating Pavement Texture Uniformity Based on Thr
 
 WO2024/198068: A Method for Pavement Damage Matching and Continuous Tracking
 
-**发明专利 | Invention Patents：**
+**发明专利 Invention Patents：**
 
 （已授权）一种基于摩擦接触面预估的路面抗滑性能评价方法，ZL202110212825.X
 
@@ -211,14 +211,14 @@ WO2024/198068: A Method for Pavement Damage Matching and Continuous Tracking
 
 （Authorized）A Method for Evaluating Three‑Dimensional Pavement Texture Uniformity Based on Grid Distribution Features (ZL202310061658.2)
 
-**实用新型专利 | Utility Model Patent：**
-
+**实用新型专利 Utility Model Patent：**
+======
 （已授权）一种三维扫描数据采集设备以及具有该设备的压路机，CN220364837U
 
 （Authorized）A 3D Scanning Data Acquisition Device and a Roller Equipped Therewith，CN220364837U
 
-**计算机软件著作权 | Software Copyright：**
-
+**计算机软件著作权 Software Copyright：**
+======
 （已授权）路面三维纹理参数自动计算软件，2023SR0356615
 
 （Authorized）Pavement 3D Texture Parameter Automatic Calculation Software，2023SR0356615
