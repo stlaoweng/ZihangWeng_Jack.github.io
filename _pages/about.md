@@ -247,7 +247,7 @@ Organizing Committee Member, International Association of Chinese Infrastructure
 
 **Session Chair**, Nexus Forum 2026
 
-担任**多交叉学科**领域三十余个国际**期刊审稿人** |Peer Reviewer for over 30 international journals across multiple disciplines：
+担任**多交叉学科**领域三十余个国际**期刊审稿人** Peer Reviewer for over 30 international journals across multiple disciplines：
 
 -AI+交通/土木：Autom. Constr.; IEEE Trans. Intell. Transp. Syst.; Advan. Eng. Inform
 
