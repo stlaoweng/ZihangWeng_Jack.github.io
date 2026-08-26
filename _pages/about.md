@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "翁梓航 | Zihang Weng"
+title: "翁梓航 Zihang Weng"
 author_profile: true
 redirect_from: 
   - /about/
@@ -25,17 +25,11 @@ My research focuses on the assessment of safety, energy consumption, and resilie
 
 教育经历 | Education
 ======
-2018.09-2024.07，同济大学，交通运输工程，博士（导师：杜豫川教授）
+2018.09-2024.07，同济大学，交通运输工程，博士（导师：杜豫川教授）Ph.D. in Transportation Engineering, Tongji University (Supervisor: Professor Yuchuan Du)
 
-2018.09-2024.07，Ph.D. in Transportation Engineering, Tongji University (Supervisor: Professor Yuchuan Du)
+2022.10-2023.10，苏黎世联邦理工 ETH (QS No.7)，土木与环境学院，联合培养博士 （合作导师：Bryan T. Adey教授）Joint Ph.D. Student, Department of Civil and Environmental Engineering, ETH Zurich (QS World Rank No. 7) (Supervisor: Professor Bryan T. Adey)
 
-2022.10-2023.10，苏黎世联邦理工 ETH (QS No.7)，土木与环境学院，联合培养博士 （合作导师：Bryan T. Adey教授）
-
-2022.10-2023.10，Joint Ph.D. Student, Department of Civil and Environmental Engineering, ETH Zurich (QS World Rank No. 7) (Supervisor: Professor Bryan T. Adey)
-
-2014.09-2018.07，同济大学，土木工程，学士
-
-2014.09-2018.07，B.E. in Civil Engineering, Tongji University
+2014.09-2018.07，同济大学，土木工程，学士 B.E. in Civil Engineering, Tongji University
 
 科研项目 | Education
 ======
@@ -187,7 +181,7 @@ WO/2024/152526: A Method for Evaluating Pavement Texture Uniformity Based on Thr
 
 WO2024/198068: A Method for Pavement Damage Matching and Continuous Tracking
 
-发明专利 | Authorized Invention Patents：
+发明专利 | Invention Patents：
 
 （已授权）一种基于摩擦接触面预估的路面抗滑性能评价方法，ZL202110212825.X
 
@@ -256,7 +250,7 @@ Session Chair, Applied Energy Symposium 2026 (AI for Energy Systems)
 
 Session Chair, Nexus Forum 2026
 
-担任**多交叉学科**领域三十余个国际**期刊审稿人** | Peer Reviewer for over 30 international journals across multiple disciplines：
+担任**多交叉学科**领域三十余个国际**期刊审稿人** |Peer Reviewer for over 30 international journals across multiple disciplines：
 
 -AI+交通/土木：Autom. Constr.; IEEE Trans. Intell. Transp. Syst.; Advan. Eng. Inform
 
