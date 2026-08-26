@@ -171,7 +171,7 @@ High‑Frequency Multi‑Dimensional Sensing and Digital Management Technologies
 
 发明专利 | Patents
 ======
-国际PCT专利 | PCT Patents
+**国际PCT专利 | PCT Patents**
 
 一种基于三维特征分布的路面纹理均匀性评价方法，WO/2024/152526
 
@@ -181,7 +181,7 @@ WO/2024/152526: A Method for Evaluating Pavement Texture Uniformity Based on Thr
 
 WO2024/198068: A Method for Pavement Damage Matching and Continuous Tracking
 
-发明专利 | Invention Patents：
+**发明专利 | Invention Patents：**
 
 （已授权）一种基于摩擦接触面预估的路面抗滑性能评价方法，ZL202110212825.X
 
@@ -211,13 +211,13 @@ WO2024/198068: A Method for Pavement Damage Matching and Continuous Tracking
 
 （Authorized）A Method for Evaluating Three‑Dimensional Pavement Texture Uniformity Based on Grid Distribution Features (ZL202310061658.2)
 
-实用新型专利 | Utility Model Patent：
+**实用新型专利 | Utility Model Patent：**
 
 （已授权）一种三维扫描数据采集设备以及具有该设备的压路机，CN220364837U
 
 （Authorized）A 3D Scanning Data Acquisition Device and a Roller Equipped Therewith，CN220364837U
 
-计算机软件著作权 | Software Copyright：
+**计算机软件著作权 | Software Copyright：**
 
 （已授权）路面三维纹理参数自动计算软件，2023SR0356615
 
@@ -232,23 +232,23 @@ Organizing Committee Member, International Association of Chinese Infrastructure
 
 担任《Intelligent Transportation Infrastructure》、《长沙理工大学学报》**青年编委**；
 
-Youth Editorial Board Member, Intelligent Transportation Infrastructure and Journal of Changsha University of Science & Technology
+**Editorial Board Member**, Intelligent Transportation Infrastructure and Journal of Changsha University of Science & Technology
 
 担任SCI期刊《Applied Science》、《Symmetry》**客座编辑(Guest Editor)**；
 
-Guest Editor, Applied Sciences and Symmetry
+**Guest Editor**, Applied Sciences and Symmetry
 
 荣获期刊《J. Transp. Eng. Part B Pavements》、《J. Road Eng.》**优秀审稿专家**；
 
-Outstanding Reviewer, Journal of Transportation Engineering, Part B: Pavements and Journal of Road Engineering
+**Outstanding Reviewer**, Journal of Transportation Engineering, Part B: Pavements and Journal of Road Engineering
 
 能源领域国际顶级会议Applied Energy Symposium 2026 **分会场主席**（AI for Energy Systems）；
 
-Session Chair, Applied Energy Symposium 2026 (AI for Energy Systems)
+**Session Chair**, Applied Energy Symposium 2026 (AI for Energy Systems)
 
 交叉学科顶级会议 Nexus Forum 2026 **分会场主席**
 
-Session Chair, Nexus Forum 2026
+**Session Chair**, Nexus Forum 2026
 
 担任**多交叉学科**领域三十余个国际**期刊审稿人** |Peer Reviewer for over 30 international journals across multiple disciplines：
 
