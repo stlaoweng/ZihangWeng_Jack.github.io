@@ -212,13 +212,13 @@ WO2024/198068: A Method for Pavement Damage Matching and Continuous Tracking
 （Authorized）A Method for Evaluating Three‑Dimensional Pavement Texture Uniformity Based on Grid Distribution Features (ZL202310061658.2)
 
 **实用新型专利 Utility Model Patent：**
-======
+
 （已授权）一种三维扫描数据采集设备以及具有该设备的压路机，CN220364837U
 
 （Authorized）A 3D Scanning Data Acquisition Device and a Roller Equipped Therewith，CN220364837U
 
 **计算机软件著作权 Software Copyright：**
-======
+
 （已授权）路面三维纹理参数自动计算软件，2023SR0356615
 
 （Authorized）Pavement 3D Texture Parameter Automatic Calculation Software，2023SR0356615
