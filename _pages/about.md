@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 香港理工大学 土木及环境工程学系，冷真教授团队，博士后 
+
 Postdoctoral Fellow in the team of Professor Zhen Leng at the Department of Civil and Environmental Engineering, The Hong Kong Polytechnic University.
 
 wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
@@ -19,63 +20,81 @@ My research focuses on the assessment of safety, energy consumption, and resilie
 工作经历 | Work Experience
 ======
 2024.08-，香港理工大学，土木及环境工程学系，博士后研究员（合作导师：冷真教授）
+
 2024.08-, Postdoctoral Fellow, Department of Civil and Environmental Engineering, The Hong Kong Polytechnic University (Supervisor: Professor Zhen Leng)
 
 教育经历 | Education
 ======
 2018.09-2024.07，同济大学，交通运输工程，博士（导师：杜豫川教授）
+
                  Ph.D. in Transportation Engineering, Tongji University (Supervisor: Professor Yuchuan Du)
 
 2022.10-2023.10，苏黎世联邦理工 ETH (QS No.7)，土木与环境学院，联合培养博士 （合作导师：Bryan T. Adey教授）
+
                  Joint Ph.D. Student, Department of Civil and Environmental Engineering, ETH Zurich (QS World Rank No. 7) (Supervisor: Professor Bryan T. Adey)
 
 2014.09-2018.07，同济大学，土木工程，学士
+
                  B.E. in Civil Engineering, Tongji University
 
 科研项目 | Education
 ======
 **国家自然科学基金青年基金项目（C类）**，**主持**，2026
+
 Principal Investigator, National Natural Science Foundation of China – Youth Fund Project (Category C), 2026
 
 香港理工大学博士后基金，主持，2025
+
 Principal Investigator, Postdoctoral Fellowship of The Hong Kong Polytechnic University, 2025
 
 香港理工大学潘乐陶基金项目“面向城市气候调控的功能化固废基凉爽路面”, 参与
+
 Participant, PolyU Otto Poon Charitable Foundation Project: “Functionalized Solid Waste‑Based Cool Pavements for Urban Climate Regulation”
 
 国家重点研发计划项目“弹性交通系统信息物理建模与评估理论方法研究”，参与
+
 Participant, National Key R&D Program of China – “Research on Cyber‑Physical Modeling and Evaluation Theory for Resilient Transportation Systems”
 
 国家重点研发计划项目“智慧道路建设运行关键技术”，参与
+
 Participant, National Key R&D Program of China – “Key Technologies for Smart Road Construction and Operation”
 
 国家重点研发计划项目“港珠澳大桥智能运维技术集成应用”，参与
+
 Participant, National Key R&D Program of China – “Integrated Application of Intelligent Operation and Maintenance Technologies for the Hong Kong‑Zhuhai‑Macao Bridge”
 
 国家自然基金面上项目“自然路面表观损伤数据集在线构建与时空分析”，参与
+
 Participant, General Program of National Natural Science Foundation of China – “Online Construction and Spatiotemporal Analysis of Dataset for Natural Pavement Surface Damage”
 
 国家自然基金面上项目“密集数据驱动的路面性能推演模型研究”，参与
+
 Participant, General Program of National Natural Science Foundation of China – “Research on Dense Data‑Driven Pavement Performance Prediction Models”
 
 奖项与荣誉 | Awards and Honors
 ======
 **重庆市科技进步奖二等奖**（排名9），2026；
+
 Second Prize of Chongqing Science and Technology Progress Award (ranked 9th), 2026
 
 **中国交通运输协会科技进步奖一等奖**（排名11），2024；
+
 First Prize of China Transportation Association Science and Technology Progress Award (ranked 11th), 2024
 
 **中国智能交通协会科技进步奖二等奖**（排名6），2025；
+
 Second Prize of China Intelligent Transportation Association Science and Technology Progress Award (ranked 6th), 2025
 
 第十三届TRF交通运输研究（上海）论坛优秀博士论文，2024；
+
 Outstanding Doctoral Dissertation at the 13th TRF Transportation Research (Shanghai) Forum, 2024
 
 同济大学优秀博士学位论文，2024；
+
 Outstanding Doctoral Dissertation of Tongji University, 2024
 
 同济大学优秀博士毕业生，2024；
+
 Outstanding Doctoral Graduate of Tongji University, 2024
 
 代表性论文 | Publications
@@ -147,11 +166,13 @@ Li, F., Ablat, G., Zhou, S., Liu, Y., Bi, Y., **Weng, Z.**, & Du, Y. [2D-wavelet
 参编标准 | Publications
 ======
 公路路面及附属设施智能巡查指南，上海市地方标准
+
 Guidelines for Intelligent Inspection of Highway Pavements and Ancillary Facilities, Shanghai Local Standard (co‑author)
 
 参编专著 | Monograph
 ======
 《道路设施性能高频多维感知与数字化管理技术》，人民交通出版社，2024
+
 High‑Frequency Multi‑Dimensional Sensing and Digital Management Technologies for Road Facility Performance, China Communications Press, 2024 (co‑author)
 
 发明专利 | Patents
@@ -159,63 +180,80 @@ High‑Frequency Multi‑Dimensional Sensing and Digital Management Technologies
 国际PCT专利 | PCT Patents
 
 一种基于三维特征分布的路面纹理均匀性评价方法，WO/2024/152526
+
 WO/2024/152526: A Method for Evaluating Pavement Texture Uniformity Based on Three‑Dimensional Feature Distribution
 
 一种路面损伤匹配与连续跟踪方法，WO2024/198068
+
 WO2024/198068: A Method for Pavement Damage Matching and Continuous Tracking
 
 发明专利 | Authorized Invention Patents：
 
 （已授权）一种基于摩擦接触面预估的路面抗滑性能评价方法，ZL202110212825.X
+
 （Authorized）A Method for Evaluating Pavement Skid Resistance Based on Friction Contact Surface Estimation (ZL202110212825.X)
 
 （已授权）一种基于关键渗水点识别的路面渗水性能评估方法, ZL202110212832.X
+
 （Authorized）A Method for Evaluating Pavement Permeability Based on Critical Water Permeation Point Identification (ZL202110212832.X)
 
 （已授权）一种基于三维纹理特征的沥青路面混合料级配预估方法，ZL202110211816.9
+
 （Authorized）A Method for Estimating Asphalt Mixture Gradation Based on Three‑Dimensional Texture Features (ZL202110211816.9)
 
 （已授权）一种考虑碳排放的路网级全生命养护优化方法，ZL202210139768.1
+
 （Authorized）A Network‑Level Life‑Cycle Maintenance Optimization Method Considering Carbon Emissions (ZL202210139768.1)
 
 （已授权）一种融合三维扫描和图像感知的压实监测设备和方法，ZL202310783456.9
+
 （Authorized）A Compaction Monitoring Device and Method Integrating 3D Scanning and Image Sensing (ZL202310783456.9)
 
 （已授权）一种基于高频智能巡检数据的路面性能动态预测方法，ZL202210892689.8
+
 （Authorized）A Dynamic Pavement Performance Prediction Method Based on High‑Frequency Intelligent Inspection Data (ZL202210892689.8)
 
 （已授权）一种基于网格分布特征的路面三维纹理均匀性评价方法，CN202310061658.2
+
 （Authorized）A Method for Evaluating Three‑Dimensional Pavement Texture Uniformity Based on Grid Distribution Features (ZL202310061658.2)
 
 实用新型专利 | Utility Model Patent：
 
 （已授权）一种三维扫描数据采集设备以及具有该设备的压路机，CN220364837U
+
 （Authorized）A 3D Scanning Data Acquisition Device and a Roller Equipped Therewith，CN220364837U
 
 计算机软件著作权 | Software Copyright：
 
 （已授权）路面三维纹理参数自动计算软件，2023SR0356615
+
 （Authorized）Pavement 3D Texture Parameter Automatic Calculation Software，2023SR0356615
 
 
 学术兼职 | Academic Services
 ======
 国际华人基础设施专家联盟（IACIP）组织委员会成员；
+
 Organizing Committee Member, International Association of Chinese Infrastructure Professionals (IACIP)；
 
 担任《Intelligent Transportation Infrastructure》、《长沙理工大学学报》**青年编委**；
+
 Youth Editorial Board Member, Intelligent Transportation Infrastructure and Journal of Changsha University of Science & Technology
 
 担任SCI期刊《Applied Science》、《Symmetry》**客座编辑(Guest Editor)**；
+
 Guest Editor, Applied Sciences and Symmetry
 
 荣获期刊《J. Transp. Eng. Part B Pavements》、《J. Road Eng.》**优秀审稿专家**；
+
 Outstanding Reviewer, Journal of Transportation Engineering, Part B: Pavements and Journal of Road Engineering
 
 能源领域国际顶级会议Applied Energy Symposium 2026 **分会场主席**（AI for Energy Systems）；
+
 Session Chair, Applied Energy Symposium 2026 (AI for Energy Systems)
 
 交叉学科顶级会议 Nexus Forum 2026 **分会场主席**
+
 Session Chair, Nexus Forum 2026
 
 担任**多交叉学科**领域三十余个国际**期刊审稿人** | Peer Reviewer for over 30 international journals across multiple disciplines：
