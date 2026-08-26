@@ -27,15 +27,15 @@ My research focuses on the assessment of safety, energy consumption, and resilie
 ======
 2018.09-2024.07，同济大学，交通运输工程，博士（导师：杜豫川教授）
 
-                 Ph.D. in Transportation Engineering, Tongji University (Supervisor: Professor Yuchuan Du)
+2018.09-2024.07，Ph.D. in Transportation Engineering, Tongji University (Supervisor: Professor Yuchuan Du)
 
 2022.10-2023.10，苏黎世联邦理工 ETH (QS No.7)，土木与环境学院，联合培养博士 （合作导师：Bryan T. Adey教授）
 
-                 Joint Ph.D. Student, Department of Civil and Environmental Engineering, ETH Zurich (QS World Rank No. 7) (Supervisor: Professor Bryan T. Adey)
+2022.10-2023.10，Joint Ph.D. Student, Department of Civil and Environmental Engineering, ETH Zurich (QS World Rank No. 7) (Supervisor: Professor Bryan T. Adey)
 
 2014.09-2018.07，同济大学，土木工程，学士
 
-                 B.E. in Civil Engineering, Tongji University
+2014.09-2018.07，B.E. in Civil Engineering, Tongji University
 
 科研项目 | Education
 ======
