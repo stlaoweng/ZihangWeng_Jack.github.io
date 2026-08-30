@@ -261,13 +261,15 @@ Organizing Committee Member, International Association of Chinese Infrastructure
 
 -道路工程：中国公路学报;Int. J. Pave. Res. Technol.; Road Mater. Pavement Des.
 
--计算机/AI：Neurocomputing; Big Data Cogn. Comput.; Computers; Algorithms; Modelling
+-计算机/AI：Neurocomputing; Big Data Cogn. Comput.; Computers; Algorithms; Modelling; Journal of Real-Time Image Processing
 
 -环境/能源：Environ. Impact Assess. Rev.; Buildings
 
 -地理/遥感：GIScience & Remote Sens.
 
--土木/机械：Constr. Build. Mater.; Case Stud. Constr. Mater.; Measurement; Materials; Infrastructures; Tribo. Int.
+-土木/材料：Constr. Build. Mater.; Case Stud. Constr. Mater.; Materials; Infrastructures; Transp. Geote.
+
+-物理/机械：Friction; Tribo. Int.; Measurement
 
 -交通工程：Transportmetrica A: Transp. Sci.; J. Traffic Transp. Eng.
 
