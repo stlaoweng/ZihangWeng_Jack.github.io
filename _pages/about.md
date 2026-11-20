@@ -10,7 +10,7 @@ wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
 
 香港理工大学 土木及环境工程学系，冷真教授团队，博士后 
 
-研究方向为交通-设施-环境互馈下的安全、能耗与韧性影响评估。**主持国家自然科学基金青年基金项目（C类）**，发表学术论文**四十余**篇，其中以**第一作者/通讯作者**在Sustain. Cities Soc.(IF=13.3), Autom. Constr.(IF=12.6), Comput.-Aided Civ. Infrastruct. Eng.(IF=9.2), Friction(IF=8.2)等高水平期刊上发表SCI/EI/北大核心论文**二十余篇**，包含**12篇JCR一区**。获得国际PCT专利**2**项，授权发明专利**7**项，实用新型专利1项，软件著作权1项，参编地方标准1部，参编专著1部。作为**主要完成人**获**中国公路学会科技进步一等奖（2/15）**，重庆市科技进步二等奖（9/15），中国交通运输协会科技进步一等奖（11/15），中国智能交通协会科技进步二等奖（6/10）等荣誉，研究成果入选**国家交通部重大科技创新成果**（论文类）、**ESI全球前1%高被引论文（3篇）**、**中国知网前1%高被引论文**。担任《Intelligent Transportation Infrastructure》、《长沙理工大学学报》**青年编委**，《Applied Science》、《Symmetry》的**客座编辑**，能源领域国际顶级会议Applied Energy Symposium 2026 **分会场主席**，交叉学科顶级会议Nexus Forum 2026 **分会场主席**，Springer Nature出版社**评审编辑**（Reviewing Editor），期刊《J. Transp. Eng. Part B Pavements》、《J. Road Eng.》**优秀审稿专家**和Autom. Constr.，IEEE Trans. Intell. Transp. Syst.，Advan. Eng. Inform，中国公路学报等四十余个学术**期刊审稿人**。
+研究方向为交通-设施-环境互馈下的安全、能耗与韧性影响评估。**主持国家自然科学基金青年基金项目（C类）**，发表学术论文**四十余**篇，其中以**第一作者/通讯作者**在Sustain. Cities Soc.(IF=13.3), Autom. Constr.(IF=12.6), Comput.-Aided Civ. Infrastruct. Eng.(IF=9.2), Friction(IF=8.2)等高水平期刊上发表SCI/EI/北大核心论文**二十余篇**，包含**12篇JCR一区**。获得国际PCT专利**2**项，授权发明专利**7**项，实用新型专利1项，软件著作权1项，参编地方标准1部，参编专著1部。作为**主要完成人**荣获**中国公路学会科技进步一等奖（2/15）**，并获得重庆市科技进步二等奖（9/15），中国交通运输协会科技进步一等奖（11/15），中国智能交通协会科技进步二等奖（6/10）等荣誉，研究成果入选**国家交通部重大科技创新成果**（论文类）、**ESI全球前1%高被引论文（3篇）**、**中国知网前1%高被引论文**。担任《Intelligent Transportation Infrastructure》、《长沙理工大学学报》**青年编委**，《Applied Science》、《Symmetry》的**客座编辑**，能源领域国际顶级会议Applied Energy Symposium 2026 **分会场主席**，交叉学科顶级会议Nexus Forum 2026 **分会场主席**，Springer Nature出版社**评审编辑**（Reviewing Editor），期刊《J. Transp. Eng. Part B Pavements》、《J. Road Eng.》**优秀审稿专家**和Autom. Constr.，IEEE Trans. Intell. Transp. Syst.，Advan. Eng. Inform，中国公路学报等四十余个学术**期刊审稿人**。
 
 工作经历
 ======
@@ -28,8 +28,6 @@ wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
 ======
 **国家自然科学基金青年基金项目（C类）**，**主持**，2026
 
-Principal Investigator, National Natural Science Foundation of China – Youth Fund Project (Category C), 2026
-
 奖项与荣誉 | Awards and Honors
 ======
 **中国公路学会科技进步一等奖（2/15）**，2026；
@@ -42,7 +40,7 @@ Principal Investigator, National Natural Science Foundation of China – Youth F
 
 代表性论文 | Publications
 ======
-Huang, W., Yin, B., Yang, B., Li, D., Chen, Z., Huang J.,  **Weng, Z. *(共同通讯作者)**, and Leng, Z*. [Integrating road-building spatial interactions into the quantification of building vulnerability to traffic noise](https://doi.org/10.1016/j.scs.2026.108130)[J]. Sustainable Cities and Society, 2026. (JCR Q1, IF=13.3)
+Huang, W., Yin, B., Yang, B., Li, D., Chen, Z., Huang J., **Weng, Z.*(共同通讯作者)**, and Leng, Z*. [Integrating road-building spatial interactions into the quantification of building vulnerability to traffic noise](https://doi.org/10.1016/j.scs.2026.108130)[J]. Sustainable Cities and Society, 2026. (JCR Q1, IF=13.3)
 
 **Weng, Z.**, Liu, C., Du, Y., et al. [Research paradigms and scales of asphalt pavement skid resistance evaluation: A review](https://doi.org/10.26599/FRICT.2025.9441082)[J]. Friction, 2026, 14(2): 9441082. (JCR Q1, **IF=8.2**；**ESI前1%高被引论文🏆**)
 
