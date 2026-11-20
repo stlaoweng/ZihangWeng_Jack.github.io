@@ -10,23 +10,19 @@ wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
 
 香港理工大学 土木及环境工程学系，冷真教授团队，博士后 
 
-Postdoctoral Fellow, Department of Civil and Environmental Engineering, The Hong Kong Polytechnic University.
+研究方向为交通-设施-环境互馈下的安全、能耗与韧性影响评估。**主持国家自然科学基金青年基金项目（C类）**，发表学术论文**四十余**篇，其中以**第一作者/通讯作者**在Sustain. Cities Soc.(IF=13.3), Autom. Constr.(IF=12.6), Comput.-Aided Civ. Infrastruct. Eng.(IF=9.2), Friction(IF=8.2)等高水平期刊上发表SCI/EI/北大核心论文**二十余篇**，包含**12篇JCR一区**。获得国际PCT专利**2**项，授权发明专利**7**项，实用新型专利1项，软件著作权1项，参编地方标准1部，参编专著1部。作为**主要完成人**获**中国公路学会科技进步一等奖（2/15）**，重庆市科技进步二等奖（9/15），中国交通运输协会科技进步一等奖（11/15），中国智能交通协会科技进步二等奖（6/10）等荣誉，研究成果入选**国家交通部重大科技创新成果**（论文类）、**ESI全球前1%高被引论文（3篇）**、**中国知网前1%高被引论文**。担任《Intelligent Transportation Infrastructure》、《长沙理工大学学报》**青年编委**，《Applied Science》、《Symmetry》的**客座编辑**，能源领域国际顶级会议Applied Energy Symposium 2026 **分会场主席**，交叉学科顶级会议Nexus Forum 2026 **分会场主席**，Springer Nature出版社**评审编辑**（Reviewing Editor），期刊《J. Transp. Eng. Part B Pavements》、《J. Road Eng.》**优秀审稿专家**和Autom. Constr.，IEEE Trans. Intell. Transp. Syst.，Advan. Eng. Inform，中国公路学报等四十余个学术**期刊审稿人**。
 
-研究方向为交通-设施-环境互馈下的安全、能耗与韧性影响评估。主持**国家自然科学基金青年基金项目（C类）**，发表学术论文**四十余**篇，其中以**第一作者/通讯作者**在Autom. Constr., Comput.-Aided Civ. Infrastruct. Eng., Friction, Tribol. Int.等高水平期刊上发表SCI/EI/北大核心论文**二十余篇**，包含**13篇世界一流科技期刊**，**11篇JCR一区**。获得国际PCT专利**2**项，授权发明专利**7**项，实用新型专利1项，软件著作权1项，参编地方标准1部，参编专著1部。研究成果获**重庆市科技进步奖二等奖**，**中国交通运输协会科技进步奖一等奖**，**中国智能交通协会科技进步奖二等奖**等多项国家级和省级荣誉，第十三届TRF交通运输研究（上海）论坛优秀博士论文，同济大学优秀博士学位论文，入选**国家交通部重大科技创新成果**（论文类）、**ESI全球前1%高被引论文（3篇）**、**中国知网前1%高被引论文**。担任Springer Nature出版社**评审编辑**（Reviewing Editor），《Intelligent Transportation Infrastructure》、《长沙理工大学学报》**青年编委**，《Applied Science》、《Symmetry》的**客座编辑**，能源领域国际顶级会议Applied Energy Symposium 2026 **分会场主席**，交叉学科顶级会议Nexus Forum 2026 **分会场主席**，期刊《J. Transp. Eng. Part B Pavements》、《J. Road Eng.》**优秀审稿专家**和Autom. Constr.，IEEE Trans. Intell. Transp. Syst.，Advan. Eng. Inform，中国公路学报等四十余个学术**期刊审稿人**。
-
-My research focuses on the assessment of safety, energy, and resilience implications under transport-infrastructure-environment nexus. I am the Principal Investigator of the **Youth Fund Project (C) of the National Natural Science Foundation of China**. I have authored more than 40 academic papers in journals such as Automation in Construction (4 papers, IF=12.6), Computer-Aided Civil and Infrastructure Engineering (3 papers, IF=9.2), Friction (3 papers, IF=8.2), Construction and Building Materials (2 papers, IF=8.9), IEEE Transactions on Intelligent Transportation Systems (IF=8.5), Transportation Research Part D: Transport and Environment (IF=7.7) and Tribology International (IF=6.9). I hold **2** international PCT patents, **7** authorized invention patents (14 publicly disclosed), **1** utility model patent, and **1** software copyright. I have co‑authored 1 local standard and 1 monograph. My research achievements have earned me the **Second Prize of Chongqing Science and Technology Progress Award**, the **First Prize of China Transportation Association Science and Technology Progress Award**, the **Second Prize of China Intelligent Transportation Association Science and Technology Progress Award**, the Outstanding Doctoral Dissertation at the 13th TRF Transportation Research (Shanghai) Forum, and the Outstanding Doctoral Dissertation of Tongji University. My work has also been selected as a **Major Scientific and Technological Innovation Achievement (Paper Category) by the Ministry of Transport of China**, and recognized as both an **ESI Global Top 1% Highly Cited Paper** and a **CNKI Top 1% Highly Cited Paper**. I serve as the **Springer Nature Reviewing Editor** and on the **Editorial Board** for Intelligent Transportation Infrastructure and Journal of Changsha University of Science & Technology, and as a **Guest Editor** for Applied Sciences and Symmetry. I have been a **Session Chair** at Applied Energy Symposium 2026 and Nexus Forum 2026. I am also recognized as an **Outstanding Reviewer** for Journal of Transportation Engineering, Part B: Pavements and Journal of Road Engineering, and serve as a peer reviewer for over 30 academic journals, including Automation in Construction, IEEE Transactions on Intelligent Transportation Systems, Advanced Engineering Informatics, and China Journal of Highway and Transport.
-
-工作经历 | Work Experience
+工作经历
 ======
-2024.08-，香港理工大学，土木及环境工程学系，博士后研究员（合作导师：冷真教授）Postdoctoral Fellow, Department of Civil and Environmental Engineering, The Hong Kong Polytechnic University (Supervisor: Professor Zhen Leng)
+2024.08-，香港理工大学，土木及环境工程学系，博士后研究员（合作导师：冷真教授）
 
 教育经历 | Education
 ======
-2018.09-2024.07，同济大学，交通运输工程，博士（导师：杜豫川教授）Ph.D. in Transportation Engineering, Tongji University (Supervisor: Professor Yuchuan Du)
+2018.09-2024.07，同济大学，交通运输工程，博士（导师：杜豫川教授）
 
-2022.10-2023.10，苏黎世联邦理工 ETH (QS No.7)，土木与环境学院，联合培养博士 （合作导师：Bryan T. Adey教授）Joint Ph.D. Student, Department of Civil and Environmental Engineering, ETH Zurich (QS World Rank No. 7) (Supervisor: Professor Bryan T. Adey)
+2022.10-2023.10，苏黎世联邦理工 ETH (QS No.7)，土木与环境学院，联合培养博士 （合作导师：Bryan T. Adey教授）
 
-2014.09-2018.07，同济大学，土木工程，学士 B.E. in Civil Engineering, Tongji University
+2014.09-2018.07，同济大学，土木工程，学士
 
 科研项目 | Education
 ======
@@ -34,122 +30,79 @@ My research focuses on the assessment of safety, energy, and resilience implicat
 
 Principal Investigator, National Natural Science Foundation of China – Youth Fund Project (Category C), 2026
 
-香港理工大学博士后基金，主持，2025
-
-Principal Investigator, Postdoctoral Fellowship of The Hong Kong Polytechnic University, 2025
-
-香港理工大学潘乐陶基金项目“面向城市气候调控的功能化固废基凉爽路面”, 参与
-
-Participant, PolyU Otto Poon Charitable Foundation Project: “Functionalized Solid Waste‑Based Cool Pavements for Urban Climate Regulation”
-
-国家重点研发计划项目“弹性交通系统信息物理建模与评估理论方法研究”，参与
-
-Participant, National Key R&D Program of China – “Research on Cyber‑Physical Modeling and Evaluation Theory for Resilient Transportation Systems”
-
-国家重点研发计划项目“智慧道路建设运行关键技术”，参与
-
-Participant, National Key R&D Program of China – “Key Technologies for Smart Road Construction and Operation”
-
-国家重点研发计划项目“港珠澳大桥智能运维技术集成应用”，参与
-
-Participant, National Key R&D Program of China – “Integrated Application of Intelligent Operation and Maintenance Technologies for the Hong Kong‑Zhuhai‑Macao Bridge”
-
-国家自然基金面上项目“自然路面表观损伤数据集在线构建与时空分析”，参与
-
-Participant, General Program of National Natural Science Foundation of China – “Online Construction and Spatiotemporal Analysis of Dataset for Natural Pavement Surface Damage”
-
-国家自然基金面上项目“密集数据驱动的路面性能推演模型研究”，参与
-
-Participant, General Program of National Natural Science Foundation of China – “Research on Dense Data‑Driven Pavement Performance Prediction Models”
-
 奖项与荣誉 | Awards and Honors
 ======
-**重庆市科技进步奖二等奖**（排名9），2026；
+**中国公路学会科技进步一等奖（2/15）**，2026；
 
-Second Prize of Chongqing Science and Technology Progress Award (ranked 9th), 2026
+**重庆市科技进步奖二等奖**（9/15），2026；
 
-**中国交通运输协会科技进步奖一等奖**（排名11），2024；
+**中国交通运输协会科技进步奖一等奖**（11/15），2024；
 
-First Prize of China Transportation Association Science and Technology Progress Award (ranked 11th), 2024
-
-**中国智能交通协会科技进步奖二等奖**（排名6），2025；
-
-Second Prize of China Intelligent Transportation Association Science and Technology Progress Award (ranked 6th), 2025
-
-第十三届TRF交通运输研究（上海）论坛优秀博士论文，2024；
-
-Outstanding Doctoral Dissertation at the 13th TRF Transportation Research (Shanghai) Forum, 2024
-
-同济大学优秀博士学位论文，2024；
-
-Outstanding Doctoral Dissertation of Tongji University, 2024
-
-同济大学优秀博士毕业生，2024；
-
-Outstanding Doctoral Graduate of Tongji University, 2024
+**中国智能交通协会科技进步奖二等奖**（6/10），2025；
 
 代表性论文 | Publications
 ======
+Huang, W., Yin, B., Yang, B., Li, D., Chen, Z., Huang J.,  **Weng, Z. *(共同通讯作者)**, and Leng, Z*. [Integrating road-building spatial interactions into the quantification of building vulnerability to traffic noise](https://doi.org/10.1016/j.scs.2026.108130)[J]. Sustainable Cities and Society, 2026. (JCR Q1, IF=13.3)
 
-**Weng, Z.**, Xiang, H., Lin, Y., et al. [Pavement texture depth estimation using image-based multiscale features](https://doi.org/10.1016/j.autcon.2022.104404)[J]. Automation in Construction, 2022, 141:104404. (**世界一流科技期刊**, JCR Q1, **IF=12.6**)
+**Weng, Z.**, Liu, C., Du, Y., et al. [Research paradigms and scales of asphalt pavement skid resistance evaluation: A review](https://doi.org/10.26599/FRICT.2025.9441082)[J]. Friction, 2026, 14(2): 9441082. (JCR Q1, **IF=8.2**；**ESI前1%高被引论文🏆**)
 
-**Weng, Z.**, Ablat, G., Wu, D., et al. [Rapid pavement aggregate gradation estimation based on 3D data using a multi-feature fusion network](https://doi.org/10.1016/j.autcon.2021.104050)[J]. Automation in Construction, 2022, 134:104050. (**世界一流科技期刊**, JCR Q1, **IF=12.6**)
+**Weng, Z.**, Du, Y., Liu, C., Leng, Z., et al. [Vehicle skidding risk evaluation based on the lateral inhomogeneous distribution of pavement friction coefficients](https://doi.org/10.26599/FRICT.2025.9441186)[J]. Friction, 2026, 14(8): 9441186. (JCR Q1, **IF=8.2**) 
 
-**Weng, Z.**, Liu, C., Du, Y., et al. [Integrating spatial and channel attention mechanisms with domain knowledge in convolutional neural networks for friction coefficient prediction](https://doi.org/10.1111/mice.13391)[J]. Computer-Aided Civil and Infrastructure Engineering, 2025, 40(17): 2480-2497. (**世界一流科技期刊**, JCR Q1, IF=**9.2**)
+**Weng, Z.**, Leng, Z.*, Du, Y., et al. [Leveraging Tabular Prior-data Fitted Networks for Accurate Pavement Friction Coefficient Prediction from 3D Texture Features](https://doi.org/10.1016/j.triboint.2026.111794)[J].  Tribology International, 2026, 218: 111794. (JCR Q1, **IF=7.6**)
 
-**Weng, Z.**, Du, Y., Liu, C., Leng, Z., et al. [Vehicle skidding risk evaluation based on the lateral inhomogeneous distribution of pavement friction coefficients](https://doi.org/10.26599/FRICT.2025.9441186)[J]. Friction, 2026, 14(8): 9441186. (**世界一流科技期刊**, JCR Q1, **IF=8.2**) 
+**Weng, Z.**, Liu, C., Du, Y., et al. [Integrating spatial and channel attention mechanisms with domain knowledge in convolutional neural networks for friction coefficient prediction](https://doi.org/10.1111/mice.13391)[J]. Computer-Aided Civil and Infrastructure Engineering, 2025, 40(17): 2480-2497. (JCR Q1, IF=**9.2**)
 
-**Weng, Z.**, Liu, C., Du, Y., et al. [Research paradigms and scales of asphalt pavement skid resistance evaluation: A review](https://doi.org/10.26599/FRICT.2025.9441082)[J]. Friction, 2026, 14(2): 9441082. (**世界一流科技期刊**, JCR Q1, **IF=8.2**；**ESI前1%高被引论文🏆**)
+**Weng, Z.**, Leng, Z*., Li, Y., et al. [Tire Abrasion Induced Patterns of Pavement Reflectivity Characteristics from Lab to Field](https://doi.org/10.1016/j.conbuildmat.2025.142222)[J]. Construction and Building Materials, 2025, 489:142222. (JCR Q1, **IF=8.9**)
 
-**Weng, Z.**, Leng, Z*., Li, Y., et al. [Tire Abrasion Induced Patterns of Pavement Reflectivity Characteristics from Lab to Field](https://doi.org/10.1016/j.conbuildmat.2025.142222)[J]. Construction and Building Materials, 2025, 489:142222. (**世界一流科技期刊**, JCR Q1, **IF=8.9**)
+**Weng, Z.**, Xiang, H., Lin, Y., et al. [Pavement texture depth estimation using image-based multiscale features](https://doi.org/10.1016/j.autcon.2022.104404)[J]. Automation in Construction, 2022, 141:104404. (JCR Q1, **IF=12.6**)
 
-**Weng, Z.**, Leng, Z.*, Du, Y., et al. [Leveraging Tabular Prior-data Fitted Networks for Accurate Pavement Friction Coefficient Prediction from 3D Texture Features](https://doi.org/10.1016/j.triboint.2026.111794)[J].  Tribology International, 2026, 218: 111794. (**世界一流科技期刊**, JCR Q1 (Engineering, Mechanical 9/182), **IF=7.6**)
+**Weng, Z.**, Ablat, G., Wu, D., et al. [Rapid pavement aggregate gradation estimation based on 3D data using a multi-feature fusion network](https://doi.org/10.1016/j.autcon.2021.104050)[J]. Automation in Construction, 2022, 134:104050. (JCR Q1, **IF=12.6**)
 
-Du, Y., Qin, B., **Weng, Z.*(通讯作者)**, et al. [Promoting the pavement skid resistance estimation by extracting tire-contacted texture based on 3D surface data](https://doi.org/10.1016/j.conbuildmat.2021.124729)[J]. Construction and Building Materials, 2021, 307:124729. (**世界一流科技期刊**, JCR Q1, **IF=8.9**)
+Du, Y., Qin, B., **Weng, Z.*(通讯作者)**, et al. [Promoting the pavement skid resistance estimation by extracting tire-contacted texture based on 3D surface data](https://doi.org/10.1016/j.conbuildmat.2021.124729)[J]. Construction and Building Materials, 2021, 307:124729. (JCR Q1, **IF=8.9**)
 
-Jiang, S., **Weng, Z.*(共同通讯作者)**, Wu, D., et al. [Pavement Compactness Estimation Based on 3D Pavement Texture Features](https://doi.org/10.1016/j.cscm.2024.e03768)[J]. Case Studies in Construction Materials, 2024, 21: e03768  (**世界一流科技期刊**, JCR Q1, **IF=6.9**)
+Jiang, S., **Weng, Z.*(共同通讯作者)**, Wu, D., et al. [Pavement Compactness Estimation Based on 3D Pavement Texture Features](https://doi.org/10.1016/j.cscm.2024.e03768)[J]. Case Studies in Construction Materials, 2024, 21: e03768  (JCR Q1, **IF=6.9**)
 
-Du, Y., Gao, Z., Liu, C.*, **Weng, Z. *(共同通讯作者)**, et al. [Comprehensive Review on Greenhouse Gas Emission Assessment over the Full Life-Cycle of Pavement](https://doi.org/10.1016/j.cscm.2025.e04407)[J]. Case Studies in Construction Materials, 2025, 22:e04407  (**世界一流科技期刊**, JCR Q1, **IF=6.9**)
+Du, Y., Gao, Z., Liu, C.*, **Weng, Z. *(共同通讯作者)**, et al. [Comprehensive Review on Greenhouse Gas Emission Assessment over the Full Life-Cycle of Pavement](https://doi.org/10.1016/j.cscm.2025.e04407)[J]. Case Studies in Construction Materials, 2025, 22:e04407  (JCR Q1, **IF=6.9**)
 
-Wu, D., Leong, M., **Weng, Z.*(共同通讯作者)**, Liu, C., Li, Y., Du, Y., et al. [Quantifying Segregation in Asphalt Pavement Under Multiple Construction Conditions Using Multi-Scale 3D Texture Features](https://doi.org/10.1016/j.ijtst.2026.03.002)[J]. International Journal of Transportation Science and Technology, 2027, 26: 24-42. (**世界一流科技期刊**, JCR Q1, IF=5.1)
+Wu, D., Leong, M., **Weng, Z.*(共同通讯作者)**, Liu, C., Li, Y., Du, Y., et al. [Assessment of asphalt pavement segregation under varying construction conditions via multi-scale 3D texture analysis](https://doi.org/10.1016/j.ijtst.2026.03.002)[J]. International Journal of Transportation Science and Technology, 2027, 26: 24-42. (JCR Q1, IF=5.1)
 
 **Weng, Z.**, Du, Y., Wu, D., et al. [A framework for asphalt pavement surface homogeneity evaluation based on 3d texture feature distribution](https://doi.org/10.1061/JPEODX.PVENG-1893)[J]. Journal of Transportation Engineering, Part B: Pavements, 2025, 151(4): 04025050. (JCR Q2, IF=2.9)
 
 **Weng, Z. *(共同通讯作者)**, Galleguillos, M., Adey, B., Saviz, M., Du, Y. [Exploring Pavement Friction Variability Factors Using Ensemble Trees and Causal Inference](https://doi.org/10.1680/jinam.24.00028)[J]. Infrastructure Asset Management, 2025, 12 (3): 159–172. (JCR Q3, IF=1.5) 
 
-Cao J., **Weng, Z. *(共同通讯作者)**, He Y., et al. [Enhancement of Asphalt Pavement Friction Modelling Incorporating High-Resolution Tire-Road Contact Characteristics](https://doi.org/10.1080/14680629.2025.2588714)[J]. Road Materials and Pavement Design, 2025. (**世界一流科技期刊**，JCR Q2, IF=3.6)
+Cao J., **Weng, Z. *(共同通讯作者)**, He Y., et al. [Enhancement of Asphalt Pavement Friction Modelling Incorporating High-Resolution Tire-Road Contact Characteristics](https://doi.org/10.1080/14680629.2025.2588714)[J]. Road Materials and Pavement Design, 2025. (JCR Q2, IF=3.6)
 
-Chen P., Yang, H., Yang, H., Shi Q., and **Weng, Z.*(通讯作者)**. [Predicting Pavement Three-Dimensional Texture from Reflectance Intensity Images Using a conditional Generative Adversarial Network](https://doi.org/10.3390/app16115244)[J]. Applied Sciences, 2026. 16(11): 5244. (**世界一流科技期刊**，JCR Q2, IF=2.9) 
+Chen P., Yang, H., Yang, H., Shi Q., and **Weng, Z.*(通讯作者)**. [Predicting Pavement Three-Dimensional Texture from Reflectance Intensity Images Using a conditional Generative Adversarial Network](https://doi.org/10.3390/app16115244)[J]. Applied Sciences, 2026. 16(11): 5244. (JCR Q2, IF=2.9) 
 
 **翁梓航**，古丽妮尕尔·阿卜来提，杜豫川，吴荻非，刘成龙，曹静. [基于三维纹理特征的沥青路面级配预估方法](https://doi.org/10.11908/j.issn.0253-374x.21324)[J]. 同济大学学报(自然科学版), 2022, Vol.50(06):879-890. (EI，北大核心)
 
-Liu, C., Xu, N.,**Weng, Z.**, et al. [Effective pavement skid resistance measurement using multi‐scale textures and deep fusion network](https://doi.org/10.1111/mice.12931)[J]. Computer-Aided Civil and Infrastructure Engineering,  2023, 38(8): 1041-1058. (**世界一流科技期刊**, JCR Q1, **IF=9.2**)
+Liu, C., Xu, N.,**Weng, Z.**, et al. [Effective pavement skid resistance measurement using multi‐scale textures and deep fusion network](https://doi.org/10.1111/mice.12931)[J]. Computer-Aided Civil and Infrastructure Engineering,  2023, 38(8): 1041-1058. (JCR Q1, **IF=9.2**)
 
 Du, Y., **Weng, Z.**, Li, F., et al. [A novel approach for pavement texture characterisation using 2D-wavelet decomposition](https://doi.org/10.1080/10298436.2020.1825712)[J]. International Journal of Pavement Engineering, 2022, 23(6):1851-1866.(JCR Q1, IF=3.7, **2022交通部重大科技创新成果**)
 
 Du, Y., **Weng, Z.**, Lin, C., et al. [Dynamic pavement distress image stitching based on fine-grained feature matching](https://doi.org/10.1155/2020/5804835)[J]. Journal of Advanced Transportation, 2020, 2020. (JCR Q3, IF=2.3)
 
-Li, Y., Li, L., Jiang, S., Liu, C., **Weng, Z.**, and Du, Y. [Unsupervised pavement rutting detection using structured light and area-based deep learning](https://doi.org/10.1016/j.autcon.2025.106235)[J]. Automation in Construction, 2025, 176: 106235. (**世界一流科技期刊**,  JCR Q1, **IF=12.6**) 
+Li, Y., Li, L., Jiang, S., Liu, C., **Weng, Z.**, and Du, Y. [Unsupervised pavement rutting detection using structured light and area-based deep learning](https://doi.org/10.1016/j.autcon.2025.106235)[J]. Automation in Construction, 2025, 176: 106235. ( JCR Q1, **IF=12.6**) 
 
-Li, Y., Liu, C., **Weng, Z.**, et al. [Aggregate-level 3D analysis of asphalt pavement deterioration using laser scanning and vision transformer](https://doi.org/10.1016/j.autcon.2025.106380)[J]. Automation in Construction, 2025, 178: 106380. (**世界一流科技期刊**,  JCR Q1, **IF=12.6**；**ESI前1%高被引论文🏆**)
+Li, Y., Liu, C., **Weng, Z.**, et al. [Aggregate-level 3D analysis of asphalt pavement deterioration using laser scanning and vision transformer](https://doi.org/10.1016/j.autcon.2025.106380)[J]. Automation in Construction, 2025, 178: 106380. (JCR Q1, **IF=12.6**；**ESI前1%高被引论文🏆**)
 
-Li, Y., **Weng, Z.**, Liu, C., et al. [Spectral-texture coupled deep learning framework for pavement skid resistance assessment using hyperspectral imagery](https://doi.org/10.1016/j.conbuildmat.2026.147434)[J]. Construction and Building Materials, 2026, 540: 147434. (**世界一流科技期刊**, JCR Q1, **IF=8**)
+Li, Y., **Weng, Z.**, Liu, C., et al. [Spectral-texture coupled deep learning framework for pavement skid resistance assessment using hyperspectral imagery](https://doi.org/10.1016/j.conbuildmat.2026.147434)[J]. Construction and Building Materials, 2026, 540: 147434. (JCR Q1, **IF=8**)
 
-Cai, W., Du, Y., Wu, D., **Weng, Z.**, and Liu, C. [Engineering-adaptive Pavement Maintenance Decision-making Model: a Reinforcement Learning Approach from Expert Feedback](https://doi.org/10.1109/TITS.2025.3547939)[J]. IEEE Transactions on Intelligent Transportation Systems, 2025, 26(7): 10865-10880. (**世界一流科技期刊**, JCR Q1, **IF=8.5**)
+Cai, W., Du, Y., Wu, D., **Weng, Z.**, and Liu, C. [Engineering-adaptive Pavement Maintenance Decision-making Model: a Reinforcement Learning Approach from Expert Feedback](https://doi.org/10.1109/TITS.2025.3547939)[J]. IEEE Transactions on Intelligent Transportation Systems, 2025, 26(7): 10865-10880. (JCR Q1, **IF=8.5**)
 
-He, Y., **Weng, Z.**, Leng, Z., et al. [A review of asphalt pavement Long-Term Skid Resistance performance based on Multi-Scale Texture evolution characterization](https://www.sciopen.com/article/10.26599/FRICT.2025.9441157)[J]. Friction, 2026, 14(6): 9441157. (**世界一流科技期刊**, JCR Q1, IF=**8.2**；**ESI前1%高被引论文🏆**)
+He, Y., **Weng, Z.**, Leng, Z., et al. [A review of asphalt pavement Long-Term Skid Resistance performance based on Multi-Scale Texture evolution characterization](https://www.sciopen.com/article/10.26599/FRICT.2025.9441157)[J]. Friction, 2026, 14(6): 9441157. (JCR Q1, IF=**8.2**；**ESI前1%高被引论文🏆**)
 
-He, Z., Liu, Y., He, Y., Li, Y., Zhou, C., **Weng, Z.**, et al. [Performance evolution from macro to micro scales of cold-bonded silty soil environmentally friendly lightweight aggregates and their subgrade application](https://doi.org/10.1016/j.clema.2026.100436)[J]. Cleaner Materials, 2026: 100436. (**世界一流科技期刊**，JCR Q1, **IF=12.7**)
+He, Z., Liu, Y., He, Y., Li, Y., Zhou, C., **Weng, Z.**, et al. [Performance evolution from macro to micro scales of cold-bonded silty soil environmentally friendly lightweight aggregates and their subgrade application](https://doi.org/10.1016/j.clema.2026.100436)[J]. Cleaner Materials, 2026: 100436. (JCR Q1, **IF=12.7**)
 
-Peng Y., He, X., Lim S., He, Y., Kong L., Zhu H., Yu X., **Weng, Z.**, et al. [CFDSLite-UNet: A Lightweight Algorithm for Pavement Raveling Distress Detection with Efficiency and Accuracy Synergistic Improvement](https://doi.org/10.1016/j.cacaie.2026.100157)[J]. Computer-Aided Civil and Infrastructure Engineering, 2026, 49: 100157. (**世界一流科技期刊**, JCR Q1, **IF=9.1**)
+Peng Y., He, X., Lim S., He, Y., Kong L., Zhu H., Yu X., **Weng, Z.**, et al. [CFDSLite-UNet: A Lightweight Algorithm for Pavement Raveling Distress Detection with Efficiency and Accuracy Synergistic Improvement](https://doi.org/10.1016/j.cacaie.2026.100157)[J]. Computer-Aided Civil and Infrastructure Engineering, 2026, 49: 100157. (JCR Q1, **IF=9.1**)
 
-Yang, B., Yuan, M., **Weng, Z.**, Li, D., and Leng, Z. [ Acoustic aging of low-noise pavements in Hong Kong: Regression modelling and mechanism investigation](https://doi.org/10.1016/j.trd.2025.104793)[J].Transportation Research Part D: Transport and Environment, 2025, 144: 104793. (**世界一流科技期刊**, JCR Q1, **IF=7.7**)
+Yang, B., Yuan, M., **Weng, Z.**, Li, D., and Leng, Z. [ Acoustic aging of low-noise pavements in Hong Kong: Regression modelling and mechanism investigation](https://doi.org/10.1016/j.trd.2025.104793)[J].Transportation Research Part D: Transport and Environment, 2025, 144: 104793. (JCR Q1, **IF=7.7**)
 
-Zhong, S., Wu, D., Du, Y., Yu, Y., Liu, C., **Weng, Z.**, et al. [Enhanced GPR signal interpretation via deep learning fusion for unveiling road subsurface conditions](https://doi.org/10.1016/j.measurement.2025.117007)[J]. Measurement, 2025, 249:117007. (**世界一流科技期刊**, JCR Q1, IF=5.6)
+Zhong, S., Wu, D., Du, Y., Yu, Y., Liu, C., **Weng, Z.**, et al. [Enhanced GPR signal interpretation via deep learning fusion for unveiling road subsurface conditions](https://doi.org/10.1016/j.measurement.2025.117007)[J]. Measurement, 2025, 249:117007. (JCR Q1, IF=5.6)
 
-Wang, Q., Huang, G., Wang, C., **Weng, Z.**, et al. [LiBiNet: Lightweight boundary information enhanced network for crack segmentation](https://doi.org/10.1016/j.rineng.2026.109612), Results in Engineering, 2026, 29, 109612.  (**世界一流科技期刊**，JCR Q1, IF=7.9)
+Wang, Q., Huang, G., Wang, C., **Weng, Z.**, et al. [LiBiNet: Lightweight boundary information enhanced network for crack segmentation](https://doi.org/10.1016/j.rineng.2026.109612), Results in Engineering, 2026, 29, 109612.  (JCR Q1, IF=7.9)
 
-Lin, Y., Dong, C., Wu, D., Jiang, S., Xiang, H., & **Weng, Z**. [Study of Pavement Macro-and Micro-Texture Evolution Law during Compaction Using 3D Laser Scanning Technology](https://doi.org/10.3390/app13095736)[J]. Applied Sciences, 2023, 13(9), 5736. (**世界一流科技期刊**，JCR Q2, IF=2.7)
+Lin, Y., Dong, C., Wu, D., Jiang, S., Xiang, H., & **Weng, Z**. [Study of Pavement Macro-and Micro-Texture Evolution Law during Compaction Using 3D Laser Scanning Technology](https://doi.org/10.3390/app13095736)[J]. Applied Sciences, 2023, 13(9), 5736. (JCR Q2, IF=2.7)
 
 Li, F., Ablat, G., Zhou, S., Liu, Y., Bi, Y., **Weng, Z.**, & Du, Y. [2D-wavelet based micro and macro texture analysis for asphalt pavement under snow or ice condition](https://link.springer.com/article/10.1186/s43065-021-00029-y)[J]. Journal of Infrastructure Preservation and Resilience, 2021, 2(1):14. (EI)
 
@@ -162,104 +115,63 @@ Li, F., Ablat, G., Zhou, S., Liu, Y., Bi, Y., **Weng, Z.**, & Du, Y. [2D-wavelet
 厉淡宁, **翁梓航**, 申谋等. [基于小样本机器学习的沥青黏弹主曲线快速预测方法](https://link.cnki.net/urlid/61.1313.U.20251203.1921.008)[J]. 中国公路学报,2025. (EI，北大核心)
 
 
-参编标准 | Publications
+参编标准
 ======
 公路路面及附属设施智能巡查指南，上海市地方标准
 
-Guidelines for Intelligent Inspection of Highway Pavements and Ancillary Facilities, Shanghai Local Standard (co‑author)
-
-参编专著 | Monograph
+参编专著
 ======
 《道路设施性能高频多维感知与数字化管理技术》，人民交通出版社，2024
 
-High‑Frequency Multi‑Dimensional Sensing and Digital Management Technologies for Road Facility Performance, China Communications Press, 2024 (co‑author)
-
-发明专利 | Patents
+发明专利
 ======
-**国际PCT专利 PCT Patents**
-
-一种基于三维特征分布的路面纹理均匀性评价方法，WO/2024/152526
+**国际PCT专利**
 
 WO/2024/152526: A Method for Evaluating Pavement Texture Uniformity Based on Three‑Dimensional Feature Distribution
 
-一种路面损伤匹配与连续跟踪方法，WO2024/198068
-
 WO2024/198068: A Method for Pavement Damage Matching and Continuous Tracking
 
-**发明专利 Invention Patents：**
+**发明专利**
 
 （已授权）一种基于摩擦接触面预估的路面抗滑性能评价方法，ZL202110212825.X
 
-（Authorized）A Method for Evaluating Pavement Skid Resistance Based on Friction Contact Surface Estimation (ZL202110212825.X)
-
 （已授权）一种基于关键渗水点识别的路面渗水性能评估方法, ZL202110212832.X
-
-（Authorized）A Method for Evaluating Pavement Permeability Based on Critical Water Permeation Point Identification (ZL202110212832.X)
 
 （已授权）一种基于三维纹理特征的沥青路面混合料级配预估方法，ZL202110211816.9
 
-（Authorized）A Method for Estimating Asphalt Mixture Gradation Based on Three‑Dimensional Texture Features (ZL202110211816.9)
-
 （已授权）一种考虑碳排放的路网级全生命养护优化方法，ZL202210139768.1
-
-（Authorized）A Network‑Level Life‑Cycle Maintenance Optimization Method Considering Carbon Emissions (ZL202210139768.1)
 
 （已授权）一种融合三维扫描和图像感知的压实监测设备和方法，ZL202310783456.9
 
-（Authorized）A Compaction Monitoring Device and Method Integrating 3D Scanning and Image Sensing (ZL202310783456.9)
-
 （已授权）一种基于高频智能巡检数据的路面性能动态预测方法，ZL202210892689.8
-
-（Authorized）A Dynamic Pavement Performance Prediction Method Based on High‑Frequency Intelligent Inspection Data (ZL202210892689.8)
 
 （已授权）一种基于网格分布特征的路面三维纹理均匀性评价方法，CN202310061658.2
 
-（Authorized）A Method for Evaluating Three‑Dimensional Pavement Texture Uniformity Based on Grid Distribution Features (ZL202310061658.2)
-
-**实用新型专利 Utility Model Patent：**
+**实用新型专利**
 
 （已授权）一种三维扫描数据采集设备以及具有该设备的压路机，CN220364837U
 
-（Authorized）A 3D Scanning Data Acquisition Device and a Roller Equipped Therewith，CN220364837U
-
-**计算机软件著作权 Software Copyright：**
+**计算机软件著作权**
 
 （已授权）路面三维纹理参数自动计算软件，2023SR0356615
 
-（Authorized）Pavement 3D Texture Parameter Automatic Calculation Software，2023SR0356615
-
-
-学术兼职 | Academic Services
+学术兼职
 ======
 担任Springer Nature出版社**评审编辑**（Reviewing Editor）；
 
-**Springer Nature Reviewing Editor**
-
 担任《Intelligent Transportation Infrastructure》、《长沙理工大学学报》**青年编委**；
-
-**Editorial Board Member**, Intelligent Transportation Infrastructure and Journal of Changsha University of Science & Technology
 
 担任SCI期刊《Applied Science》、《Symmetry》**客座编辑(Guest Editor)**；
 
-**Guest Editor**, Applied Sciences and Symmetry
-
 荣获期刊《J. Transp. Eng. Part B Pavements》、《J. Road Eng.》**优秀审稿专家**；
-
-**Outstanding Reviewer**, Journal of Transportation Engineering, Part B: Pavements and Journal of Road Engineering
 
 能源领域国际顶级会议Applied Energy Symposium 2026 **分会场主席**（AI for Energy Systems）；
 
-**Session Chair**, Applied Energy Symposium 2026 (AI for Energy Systems)
-
 交叉学科顶级会议 Nexus Forum 2026 **分会场主席**
-
-**Session Chair**, Nexus Forum 2026
 
 国际华人基础设施专家联盟（IACIP）组织委员会成员；
 
-Organizing Committee Member, International Association of Chinese Infrastructure Professionals (IACIP)；
-
-担任**多交叉学科**领域四十余个国际**期刊审稿人** Peer Reviewer for over 40 international journals across multiple disciplines：
+担任**多交叉学科**领域四十余个国际**期刊审稿人**：
 
 -AI+交通/土木：Autom. Constr.; IEEE Trans. Intell. Transp. Syst.; Advan. Eng. Inform; J. Comput. Civil Eng.
 
