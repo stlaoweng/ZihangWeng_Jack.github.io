@@ -16,7 +16,7 @@ wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
 ======
 2024.08-，香港理工大学，土木及环境工程学系，博士后研究员（合作导师：冷真教授）
 
-教育经历 | Education
+教育经历
 ======
 2018.09-2024.07，同济大学，交通运输工程，博士（导师：杜豫川教授）
 
@@ -24,11 +24,11 @@ wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
 
 2014.09-2018.07，同济大学，土木工程，学士
 
-科研项目 | Education
+科研项目
 ======
 **国家自然科学基金青年基金项目（C类）**，**主持**，2026
 
-奖项与荣誉 | Awards and Honors
+奖项与荣誉 
 ======
 **中国公路学会科技进步一等奖（2/15）**，2026；
 
@@ -38,7 +38,7 @@ wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
 
 中国智能交通协会科技进步奖二等奖（6/10），2025；
 
-代表性论文 | Publications
+代表性论文 
 ======
 Huang, W., Yin, B., Yang, B., Li, D., Chen, Z., Huang J., **Weng, Z.*(共同通讯作者)**, and Leng, Z*. [Integrating road-building spatial interactions into the quantification of building vulnerability to traffic noise](https://doi.org/10.1016/j.scs.2026.108130)[J]. Sustainable Cities and Society, 2026. (JCR Q1, IF=13.3)
 
