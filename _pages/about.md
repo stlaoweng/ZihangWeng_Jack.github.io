@@ -40,7 +40,7 @@ wengzihang_jack@163.com；zihang.weng@polyu.edu.hk
 
 代表性论文 
 ======
-Huang, W., Yin, B., Yang, B., Li, D., Chen, Z., Huang J., **Weng, Z.*(共同通讯作者)**, and Leng, Z. [Integrating road-building spatial interactions into the quantification of building vulnerability to traffic noise](https://doi.org/10.1016/j.scs.2026.108130)[J]. Sustainable Cities and Society, 2026. (JCR Q1, IF=13.3)
+Huang, W., Yin, B., Yang, B., Li, D., Chen, Z., Huang J., **Weng, Z.*(共同通讯作者)**, and Leng, Z. [Integrating road-building spatial interactions into the quantification of building vulnerability to traffic noise](https://doi.org/10.1016/j.scs.2026.108130)[J]. Sustainable Cities and Society, 2026. (JCR Q1, **IF=13.3**)
 
 **Weng, Z.**, Liu, C., Du, Y., et al. [Research paradigms and scales of asphalt pavement skid resistance evaluation: A review](https://doi.org/10.26599/FRICT.2025.9441082)[J]. Friction, 2026, 14(2): 9441082. (JCR Q1, **IF=8.2**；**ESI前1%高被引论文🏆**)
 
